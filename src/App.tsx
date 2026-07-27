@@ -3,6 +3,8 @@ import Nav from "./components/Nav";
 import LeagueHistory from "./pages/LeagueHistory";
 import SeasonsIndex from "./pages/SeasonsIndex";
 import SeasonDetail from "./pages/SeasonDetail";
+import TradesIndex from "./pages/TradesIndex";
+import TradeYearDetail from "./pages/TradeYearDetail";
 import AllTimeStandings from "./pages/AllTimeStandings";
 import TeamPage from "./pages/TeamPage";
 import HeadToHead from "./pages/HeadToHead";
@@ -17,6 +19,8 @@ export default function App() {
         <Route path="/" element={<LeagueHistory />} />
         <Route path="/seasons" element={<SeasonsIndex />} />
         <Route path="/season/:year" element={<SeasonDetail />} />
+        <Route path="/trades" element={<TradesIndex />} />
+        <Route path="/trades/:year" element={<TradeYearDetail />} />
         <Route path="/standings" element={<AllTimeStandings />} />
         <Route path="/draft-lab" element={<DraftLab />} />
         <Route path="/stats" element={<Stats />} />

@@ -27,6 +27,7 @@ export interface SeasonStandingRow {
 }
 
 export interface PlayoffGame {
+  matchupId: string;
   week: number;
   round: number;
   roundLabel: string;
@@ -90,6 +91,9 @@ export interface TradeAsset {
   toManagerName: string;
   playerId: string;
   playerName: string;
+  // Points this player scored (on any roster) in weeks strictly after the
+  // trade, for the rest of that season. Lets a trade be judged in hindsight.
+  postTradePoints: number;
 }
 
 export interface Trade {
@@ -186,3 +190,33 @@ export interface SeasonCommentary {
 }
 
 export type Commentary = Record<string, SeasonCommentary>;
+
+// Full weekly box score for one player on one team, one matchup. `truePos` is
+// the resolved real position (see build-data.ts's playerPosById); `status` is
+// the raw roster-slot/status code from the source data (e.g. "ST", "BN",
+// "RES", or in 2021 an IDP slot label) — used only to classify starters vs
+// bench vs reserve, never shown as a position. `stats` is whatever categories
+// applied to that player's position that week (passing/rushing/receiving,
+// kicking, or defense) and is not normalized across positions.
+export interface BoxScorePlayer {
+  playerId: string;
+  playerName: string;
+  truePos: string;
+  nflTeam: string;
+  status: string;
+  pts: number;
+  stats: Record<string, number>;
+}
+
+export interface BoxScoreTeam {
+  actual: number;
+  optimal: number;
+  wasted: number;
+  starters: BoxScorePlayer[];
+  bench: BoxScorePlayer[];
+  reserve: BoxScorePlayer[];
+}
+
+// One per year, loaded via dynamic import (never bundled into the main JS
+// chunk — see src/lib/boxscores.ts). Keyed by matchupId, then teamId.
+export type MatchupBoxScores = Record<string, Record<string, BoxScoreTeam>>;

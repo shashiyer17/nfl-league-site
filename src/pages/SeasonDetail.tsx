@@ -8,6 +8,7 @@ import commentaryData from "../data/generated/commentary.json";
 import type { Season, Matchup, DraftPick, WeeklyTopPerformer, PlayoffGame, Commentary } from "../types";
 import { computeMatchupRecords, seasonRecapSentence, type RecordHighlight } from "../lib/derive";
 import RecordsGrid from "../components/RecordsGrid";
+import GameBoxScore from "../components/GameBoxScore";
 
 const seasons = seasonsData as Season[];
 const matchups = matchupsData as Matchup[];
@@ -22,38 +23,33 @@ function weekLabel(week: number): string {
 function MatchupRow({ m, recap }: { m: Matchup; recap?: string }) {
   const team1Won = m.winnerUserId === m.team1.userId;
   const team2Won = m.winnerUserId === m.team2.userId;
-  const scoreLine = (
-    <div style={{ display: "flex", justifyContent: "space-between", gap: 12 }}>
-      <span style={{ fontWeight: team1Won ? 700 : 400, color: team1Won ? "var(--accent)" : undefined }}>
-        <Link to={`/team/${m.team1.userId}`}>{m.team1.managerName}</Link>{" "}
-        <span className="num" style={{ display: "inline-block", minWidth: 56 }}>
-          {m.team1.points.toFixed(1)}
-        </span>
-      </span>
-      <span style={{ fontWeight: team2Won ? 700 : 400, color: team2Won ? "var(--accent)" : undefined }}>
-        <span className="num" style={{ display: "inline-block", minWidth: 56 }}>
-          {m.team2.points.toFixed(1)}
-        </span>{" "}
-        <Link to={`/team/${m.team2.userId}`}>{m.team2.managerName}</Link>
-      </span>
-    </div>
-  );
-
-  if (!recap) {
-    return <div style={{ padding: "6px 0", borderBottom: "1px solid var(--border)" }}>{scoreLine}</div>;
-  }
-
   return (
-    <details style={{ borderBottom: "1px solid var(--border)" }}>
-      <summary style={{ padding: "6px 0", cursor: "pointer" }}>{scoreLine}</summary>
-      <p className="muted" style={{ fontSize: "0.85rem", padding: "0 0 8px" }}>
-        {recap}
-      </p>
-    </details>
+    <div style={{ padding: "6px 0", borderBottom: "1px solid var(--border)" }}>
+      <div style={{ display: "flex", justifyContent: "space-between", gap: 12 }}>
+        <span style={{ fontWeight: team1Won ? 700 : 400, color: team1Won ? "var(--accent)" : undefined }}>
+          <Link to={`/team/${m.team1.userId}`}>{m.team1.managerName}</Link>{" "}
+          <span className="num" style={{ display: "inline-block", minWidth: 56 }}>
+            {m.team1.points.toFixed(1)}
+          </span>
+        </span>
+        <span style={{ fontWeight: team2Won ? 700 : 400, color: team2Won ? "var(--accent)" : undefined }}>
+          <span className="num" style={{ display: "inline-block", minWidth: 56 }}>
+            {m.team2.points.toFixed(1)}
+          </span>{" "}
+          <Link to={`/team/${m.team2.userId}`}>{m.team2.managerName}</Link>
+        </span>
+      </div>
+      {recap && (
+        <p className="muted" style={{ fontSize: "0.85rem", marginBottom: 0 }}>
+          {recap}
+        </p>
+      )}
+      <GameBoxScore matchupId={m.matchupId} year={m.year} team1={m.team1} team2={m.team2} />
+    </div>
   );
 }
 
-function PlayoffBracketSection({ title, games }: { title: string; games: PlayoffGame[] }) {
+function PlayoffBracketSection({ title, games, year }: { title: string; games: PlayoffGame[]; year: number }) {
   if (games.length === 0) return null;
 
   // Group by round + label rather than just round: a single round can contain
@@ -87,13 +83,19 @@ function PlayoffBracketSection({ title, games }: { title: string; games: Playoff
               {group.games.map((g, i) => {
                 const team1Won = g.winnerUserId === g.team1UserId;
                 return (
-                  <div key={i} style={{ fontSize: "0.9rem", marginBottom: 6 }}>
+                  <div key={i} style={{ fontSize: "0.9rem", marginBottom: 10 }}>
                     <div style={{ fontWeight: team1Won ? 700 : 400, color: team1Won ? "var(--accent)" : undefined }}>
                       {g.team1ManagerName} <span className="num">{g.team1Points.toFixed(1)}</span>
                     </div>
                     <div style={{ fontWeight: !team1Won ? 700 : 400, color: !team1Won ? "var(--accent)" : undefined }}>
                       {g.team2ManagerName} <span className="num">{g.team2Points.toFixed(1)}</span>
                     </div>
+                    <GameBoxScore
+                      matchupId={g.matchupId}
+                      year={year}
+                      team1={{ teamId: g.team1Id, managerName: g.team1ManagerName }}
+                      team2={{ teamId: g.team2Id, managerName: g.team2ManagerName }}
+                    />
                   </div>
                 );
               })}
@@ -221,8 +223,8 @@ export default function SeasonDetail() {
 
       <div className="card">
         <h2>Playoff Bracket</h2>
-        <PlayoffBracketSection title="Championship" games={playoffGames.championship} />
-        <PlayoffBracketSection title="Consolation" games={playoffGames.consolation} />
+        <PlayoffBracketSection title="Championship" games={playoffGames.championship} year={year} />
+        <PlayoffBracketSection title="Consolation" games={playoffGames.consolation} year={year} />
       </div>
 
       <div className="card">

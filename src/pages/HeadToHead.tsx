@@ -4,6 +4,7 @@ import managersData from "../data/generated/managers.json";
 import matchupsData from "../data/generated/matchups.json";
 import type { Manager, Matchup } from "../types";
 import { computeHeadToHead, getHeadToHead, managerNameByUserId } from "../lib/derive";
+import GameBoxScore from "../components/GameBoxScore";
 
 const managers = managersData as Manager[];
 const matchups = matchupsData as Matchup[];
@@ -124,37 +125,34 @@ function HeadToHeadDetail({
       </p>
 
       <div className="card">
-        <div className="table-scroll">
-          <table>
-            <thead>
-              <tr>
-                <th>Year</th>
-                <th>Week</th>
-                <th>Round</th>
-                <th className="num">{nameA}</th>
-                <th className="num">{nameB}</th>
-                <th>Winner</th>
-              </tr>
-            </thead>
-            <tbody>
-              {rec.meetings.map((m: Matchup) => {
-                const teamA = m.team1.userId === userIdA ? m.team1 : m.team2;
-                const teamB = m.team1.userId === userIdA ? m.team2 : m.team1;
-                const winnerName = m.winnerUserId ? nameByUserId.get(m.winnerUserId) : "Tie";
-                return (
-                  <tr key={m.matchupId}>
-                    <td>{m.year}</td>
-                    <td>{m.week}</td>
-                    <td>{m.isPlayoff ? m.roundLabel : "Regular Season"}</td>
-                    <td className="num">{teamA.points.toFixed(1)}</td>
-                    <td className="num">{teamB.points.toFixed(1)}</td>
-                    <td>{winnerName}</td>
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
-        </div>
+        {rec.meetings.map((m: Matchup) => {
+          const teamA = m.team1.userId === userIdA ? m.team1 : m.team2;
+          const teamB = m.team1.userId === userIdA ? m.team2 : m.team1;
+          const aWonThis = m.winnerUserId === teamA.userId;
+          const bWonThis = m.winnerUserId === teamB.userId;
+          return (
+            <div key={m.matchupId} style={{ padding: "8px 0", borderBottom: "1px solid var(--border)" }}>
+              <div className="muted" style={{ fontSize: "0.78rem" }}>
+                {m.year} &middot; {m.isPlayoff ? m.roundLabel : `Week ${m.week}`}
+              </div>
+              <div style={{ display: "flex", justifyContent: "space-between", gap: 12 }}>
+                <span style={{ fontWeight: aWonThis ? 700 : 400, color: aWonThis ? "var(--accent)" : undefined }}>
+                  {nameA}{" "}
+                  <span className="num" style={{ display: "inline-block", minWidth: 56 }}>
+                    {teamA.points.toFixed(1)}
+                  </span>
+                </span>
+                <span style={{ fontWeight: bWonThis ? 700 : 400, color: bWonThis ? "var(--accent)" : undefined }}>
+                  <span className="num" style={{ display: "inline-block", minWidth: 56 }}>
+                    {teamB.points.toFixed(1)}
+                  </span>{" "}
+                  {nameB}
+                </span>
+              </div>
+              <GameBoxScore matchupId={m.matchupId} year={m.year} team1={m.team1} team2={m.team2} />
+            </div>
+          );
+        })}
       </div>
     </div>
   );

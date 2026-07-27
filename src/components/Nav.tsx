@@ -3,6 +3,7 @@ import { NavLink } from "react-router-dom";
 const links = [
   { to: "/", label: "League History", end: true },
   { to: "/seasons", label: "Seasons" },
+  { to: "/trades", label: "Trades" },
   { to: "/standings", label: "All-Time Standings" },
   { to: "/draft-lab", label: "Draft Lab" },
   { to: "/stats", label: "Stats" },

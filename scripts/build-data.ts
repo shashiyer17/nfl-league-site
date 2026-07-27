@@ -23,6 +23,9 @@ import type {
   BenchWasteRow,
   DraftTendency,
   VolatilityEntry,
+  BoxScorePlayer,
+  BoxScoreTeam,
+  MatchupBoxScores,
 } from "../src/types.ts";
 
 const RAW_ROOT = "/Users/shashankiyer/Desktop/go-nfl-fantasy/8595862-tbs-fantasy-2025";
@@ -187,6 +190,7 @@ for (const year of YEARS) {
     const t1 = resolveTeam(year, g.team1Id);
     const t2 = resolveTeam(year, g.team2Id);
     return {
+      matchupId: "", // backfilled after Pass 3 builds the matchupId lookup
       week: g.week,
       round: g.round,
       roundLabel: g.roundLabel,
@@ -241,6 +245,9 @@ function weekTeamPairKey(week: number, teamA: string, teamB: string): string {
 }
 
 const matchups: Matchup[] = [];
+// `${year}::${weekTeamPairKey}` -> matchupId, used to backfill PlayoffGame's
+// matchupId (season.playoffs is built in Pass 2, before matchupIds exist).
+const playoffMatchupIdByKey = new Map<string, string>();
 
 for (const year of YEARS) {
   const regularRaw = yearFile<RawMatchup[]>(year, "matchup-history.json");
@@ -260,6 +267,7 @@ for (const year of YEARS) {
 
     if (playoffGame) {
       consumedPlayoffKeys.add(key);
+      playoffMatchupIdByKey.set(`${year}::${key}`, m.matchupId);
       matchups.push({
         year,
         week: m.week,
@@ -295,10 +303,12 @@ for (const year of YEARS) {
     if (consumedPlayoffKeys.has(key)) continue;
     const team1 = toMatchupTeam(year, g.team1Id, g.team1Points);
     const team2 = toMatchupTeam(year, g.team2Id, g.team2Points);
+    const syntheticMatchupId = `${year}-playoff-${g.round}-${g.team1Id}-${g.team2Id}`;
+    playoffMatchupIdByKey.set(`${year}::${key}`, syntheticMatchupId);
     matchups.push({
       year,
       week: g.week,
-      matchupId: `${year}-playoff-${g.round}-${g.team1Id}-${g.team2Id}`,
+      matchupId: syntheticMatchupId,
       isPlayoff: true,
       roundLabel: g.roundLabel,
       bracketType: g.bracketType,
@@ -310,6 +320,15 @@ for (const year of YEARS) {
 }
 
 matchups.sort((a, b) => a.year - b.year || a.week - b.week);
+
+// Backfill matchupId onto season.playoffs now that the lookup above exists
+// (season.playoffs was built in Pass 2, which runs before this pass).
+for (const season of seasons) {
+  for (const g of season.playoffs) {
+    const key = `${season.year}::${weekTeamPairKey(g.week, g.team1Id, g.team2Id)}`;
+    g.matchupId = playoffMatchupIdByKey.get(key) ?? "";
+  }
+}
 
 // ---- Pass 4: drafts.json ----
 interface RawDraftPick {
@@ -377,6 +396,7 @@ for (const year of YEARS) {
           toManagerName: toInfo.managerName,
           playerId: send.playerId,
           playerName: playerNameById.get(send.playerId) ?? `Unknown player ${send.playerId}`,
+          postTradePoints: 0, // filled in after Pass 7 computes weekly points
         });
       }
     }
@@ -405,6 +425,7 @@ interface RawPlayerMatchupStat {
   nflTeam: string;
   status: string;
   pts: number;
+  stats: Record<string, number>;
 }
 
 const topPerformers: WeeklyTopPerformer[] = [];
@@ -450,6 +471,8 @@ topPerformers.sort((a, b) => a.year - b.year || a.week - b.week);
 // actually did, not how well their manager used them.
 const seasonPointsByYearPlayer = new Map<string, number>(); // `${year}::${playerId}` -> total pts
 const primaryTeamByYearPlayer = new Map<string, Map<string, number>>(); // `${year}::${playerId}` -> teamId -> weeks seen
+// `${year}::${playerId}` -> week -> pts, used for post-trade point totals.
+const weeklyPointsByYearPlayer = new Map<string, Map<number, number>>();
 
 interface PositionBestCandidate {
   year: number;
@@ -509,6 +532,20 @@ function computeOptimalLineupPoints(entries: { playerId: string; pts: number }[]
 // `${year}::${teamId}` -> running season totals
 const benchWasteAccum = new Map<string, { actual: number; optimal: number }>();
 
+function toBoxScorePlayer(e: RawPlayerMatchupStat): BoxScorePlayer {
+  return {
+    playerId: e.playerId,
+    playerName: playerNameById.get(e.playerId) ?? `Unknown player ${e.playerId}`,
+    truePos: playerPosById.get(e.playerId) ?? "UNK",
+    nflTeam: e.nflTeam,
+    status: e.status,
+    pts: e.pts,
+    stats: e.stats,
+  };
+}
+
+const boxScoresByYear = new Map<number, MatchupBoxScores>();
+
 for (const year of YEARS) {
   const raw = yearFile<RawPlayerMatchupStat[]>(year, "player-matchup-statistics-history.json");
 
@@ -522,6 +559,10 @@ for (const year of YEARS) {
     const teamCounts = primaryTeamByYearPlayer.get(seasonKey) ?? new Map<string, number>();
     teamCounts.set(s.teamId, (teamCounts.get(s.teamId) ?? 0) + 1);
     primaryTeamByYearPlayer.set(seasonKey, teamCounts);
+
+    const weeklyMap = weeklyPointsByYearPlayer.get(seasonKey) ?? new Map<number, number>();
+    weeklyMap.set(week, (weeklyMap.get(week) ?? 0) + s.pts);
+    weeklyPointsByYearPlayer.set(seasonKey, weeklyMap);
 
     if (s.status !== "BN" && s.status !== "RES") {
       const truePos = playerPosById.get(s.playerId);
@@ -537,11 +578,13 @@ for (const year of YEARS) {
   }
 
   const starterCounts = starterCountsForYear(year);
+  const yearBoxScores: MatchupBoxScores = {};
+  boxScoresByYear.set(year, yearBoxScores);
+
   for (const [twKey, entries] of byTeamWeek) {
     const teamId = twKey.split("::")[0];
-    const actual = entries
-      .filter((e) => e.status !== "BN" && e.status !== "RES")
-      .reduce((sum, e) => sum + e.pts, 0);
+    const started = entries.filter((e) => e.status !== "BN" && e.status !== "RES");
+    const actual = started.reduce((sum, e) => sum + e.pts, 0);
     const optimal = computeOptimalLineupPoints(entries.filter((e) => e.status !== "RES"), starterCounts);
 
     const accKey = `${year}::${teamId}`;
@@ -549,6 +592,21 @@ for (const year of YEARS) {
     acc.actual += actual;
     acc.optimal += optimal;
     benchWasteAccum.set(accKey, acc);
+
+    // Every entry in this group shares one matchupId (a team plays exactly
+    // one matchup per week), so any entry's matchupId identifies the game.
+    const matchupId = entries[0]?.matchupId;
+    if (!matchupId) continue;
+
+    const team: BoxScoreTeam = {
+      actual,
+      optimal,
+      wasted: optimal - actual,
+      starters: started.map(toBoxScorePlayer),
+      bench: entries.filter((e) => e.status === "BN").map(toBoxScorePlayer),
+      reserve: entries.filter((e) => e.status === "RES").map(toBoxScorePlayer),
+    };
+    (yearBoxScores[matchupId] ??= {})[teamId] = team;
   }
 }
 
@@ -564,6 +622,20 @@ function primaryTeamId(year: number, playerId: string): string | null {
     }
   }
   return bestTeamId;
+}
+
+// ---- Back-fill trades.json's postTradePoints now that weekly points exist ----
+// (Trades were built in Pass 5, before this sweep computed weekly totals.)
+for (const trade of trades) {
+  for (const asset of trade.assets) {
+    const weekly = weeklyPointsByYearPlayer.get(`${trade.year}::${asset.playerId}`);
+    if (!weekly) continue;
+    let total = 0;
+    for (const [week, pts] of weekly) {
+      if (week > trade.transactionWeek) total += pts;
+    }
+    asset.postTradePoints = total;
+  }
 }
 
 // ---- Pass 8: positionLegends.json (best QB/RB/WR/TE ever, season & week) ----
@@ -800,7 +872,9 @@ const volatility: VolatilityEntry[] = [];
 volatility.sort((a, b) => a.stdDev - b.stdDev);
 
 // ---- Write output ----
+const BOX_SCORES_DIR = join(OUT_DIR, "boxscores");
 mkdirSync(OUT_DIR, { recursive: true });
+mkdirSync(BOX_SCORES_DIR, { recursive: true });
 function write(name: string, data: unknown) {
   writeFileSync(join(OUT_DIR, name), JSON.stringify(data, null, 2));
   console.log(`wrote ${name}`);
@@ -819,6 +893,16 @@ write("benchWaste.json", benchWaste);
 write("draftTendencies.json", draftTendencies);
 write("volatility.json", volatility);
 
+// Box scores are NOT imported directly by any page (they'd bloat the main JS
+// bundle by megabytes) — src/lib/boxscores.ts loads these via dynamic
+// import() only when a game's detail is actually expanded, one year at a time.
+let boxScoreMatchupCount = 0;
+for (const [year, yearBoxScores] of boxScoresByYear) {
+  writeFileSync(join(BOX_SCORES_DIR, `${year}.json`), JSON.stringify(yearBoxScores));
+  boxScoreMatchupCount += Object.keys(yearBoxScores).length;
+  console.log(`wrote boxscores/${year}.json (${Object.keys(yearBoxScores).length} matchups)`);
+}
+
 console.log(
-  `Done. ${managers.length} managers, ${seasons.length} seasons, ${matchups.length} matchups, ${drafts.length} draft picks, ${trades.length} trades, ${topPerformers.length} weekly top performers, ${positionLegends.length} position legends, ${draftValue.length} draft-value picks, ${repeatDraftees.length} repeat draftees, ${benchWaste.length} bench-waste rows, ${draftTendencies.length} draft-tendency profiles, ${volatility.length} volatility entries.`
+  `Done. ${managers.length} managers, ${seasons.length} seasons, ${matchups.length} matchups, ${drafts.length} draft picks, ${trades.length} trades, ${topPerformers.length} weekly top performers, ${positionLegends.length} position legends, ${draftValue.length} draft-value picks, ${repeatDraftees.length} repeat draftees, ${benchWaste.length} bench-waste rows, ${draftTendencies.length} draft-tendency profiles, ${volatility.length} volatility entries, ${boxScoreMatchupCount} box-scored matchups.`
 );

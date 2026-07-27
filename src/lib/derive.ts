@@ -1,4 +1,4 @@
-import type { Manager, Season, Matchup, DraftValuePick, BenchWasteRow, DraftTendency, SkillPosition } from "../types.ts";
+import type { Manager, Season, Matchup, DraftValuePick, BenchWasteRow, DraftTendency, SkillPosition, Trade, TradeAsset } from "../types.ts";
 
 export interface CareerStats {
   userId: string;
@@ -323,4 +323,52 @@ function ordinal(n: number): string {
     default:
       return `${n}th`;
   }
+}
+
+export interface TradeSide {
+  userId: string;
+  managerName: string;
+  received: TradeAsset[];
+  sent: TradeAsset[];
+  receivedPoints: number;
+  sentPoints: number;
+  netPoints: number;
+}
+
+// Reshapes a trade's flat asset list (each a from->to leg) into one entry per
+// real manager involved, plus whatever was dropped straight to free agency
+// (an empty toUserId) as part of the same transaction — that's roster
+// cleanup, not something either manager "received", so it's kept separate.
+export function tradeSides(trade: Trade): { sides: TradeSide[]; droppedToFreeAgency: TradeAsset[] } {
+  const byManager = new Map<string, TradeSide>();
+  const droppedToFreeAgency: TradeAsset[] = [];
+
+  function sideFor(userId: string, managerName: string): TradeSide {
+    let side = byManager.get(userId);
+    if (!side) {
+      side = { userId, managerName, received: [], sent: [], receivedPoints: 0, sentPoints: 0, netPoints: 0 };
+      byManager.set(userId, side);
+    }
+    return side;
+  }
+
+  for (const asset of trade.assets) {
+    if (asset.fromUserId) {
+      const side = sideFor(asset.fromUserId, asset.fromManagerName);
+      side.sent.push(asset);
+      side.sentPoints += asset.postTradePoints;
+    }
+    if (asset.toUserId) {
+      const side = sideFor(asset.toUserId, asset.toManagerName);
+      side.received.push(asset);
+      side.receivedPoints += asset.postTradePoints;
+    } else {
+      droppedToFreeAgency.push(asset);
+    }
+  }
+
+  const sides = [...byManager.values()];
+  for (const side of sides) side.netPoints = side.receivedPoints - side.sentPoints;
+
+  return { sides, droppedToFreeAgency };
 }

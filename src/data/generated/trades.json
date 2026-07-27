@@ -11,7 +11,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2560711",
-        "playerName": "Chase Edmonds"
+        "playerName": "Chase Edmonds",
+        "postTradePoints": 65.1
       },
       {
         "fromUserId": "24203568",
@@ -19,7 +20,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2560770",
-        "playerName": "Ronald Jones"
+        "playerName": "Ronald Jones",
+        "postTradePoints": 58.9
       }
     ]
   },
@@ -35,7 +37,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2543715",
-        "playerName": "Jerick McKinnon"
+        "playerName": "Jerick McKinnon",
+        "postTradePoints": 0
       },
       {
         "fromUserId": "24203568",
@@ -43,7 +46,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2543495",
-        "playerName": "Davante Adams"
+        "playerName": "Davante Adams",
+        "postTradePoints": 128.10000000000002
       },
       {
         "fromUserId": "24203568",
@@ -51,7 +55,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2557997",
-        "playerName": "Christian McCaffrey"
+        "playerName": "Christian McCaffrey",
+        "postTradePoints": 0
       },
       {
         "fromUserId": "24203568",
@@ -59,7 +64,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2558116",
-        "playerName": "Aaron Jones"
+        "playerName": "Aaron Jones",
+        "postTradePoints": 103.7
       },
       {
         "fromUserId": "21397394",
@@ -67,7 +73,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2560809",
-        "playerName": "Sony Michel"
+        "playerName": "Sony Michel",
+        "postTradePoints": 22.6
       }
     ]
   },
@@ -83,7 +90,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2508061",
-        "playerName": "Antonio Brown"
+        "playerName": "Antonio Brown",
+        "postTradePoints": 83.9
       },
       {
         "fromUserId": "24385872",
@@ -91,7 +99,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2540165",
-        "playerName": "DeAndre Hopkins"
+        "playerName": "DeAndre Hopkins",
+        "postTradePoints": 98.9
       },
       {
         "fromUserId": "24385872",
@@ -99,7 +108,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2552608",
-        "playerName": "Stefon Diggs"
+        "playerName": "Stefon Diggs",
+        "postTradePoints": 99.5
       },
       {
         "fromUserId": "24385872",
@@ -107,7 +117,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2556075",
-        "playerName": "Derrick Henry"
+        "playerName": "Derrick Henry",
+        "postTradePoints": 158
       },
       {
         "fromUserId": "21397394",
@@ -115,7 +126,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "100017",
-        "playerName": "Los Angeles Rams"
+        "playerName": "Los Angeles Rams",
+        "postTradePoints": 59
       },
       {
         "fromUserId": "21397394",
@@ -123,7 +135,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2557848",
-        "playerName": "Corey Davis"
+        "playerName": "Corey Davis",
+        "postTradePoints": 33.3
       }
     ]
   },
@@ -139,7 +152,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2565144",
-        "playerName": "DeeJay Dallas"
+        "playerName": "DeeJay Dallas",
+        "postTradePoints": 9
       },
       {
         "fromUserId": "24385872",
@@ -147,7 +161,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "100002",
-        "playerName": "Baltimore Ravens"
+        "playerName": "Baltimore Ravens",
+        "postTradePoints": 44
       },
       {
         "fromUserId": "24385872",
@@ -155,7 +170,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2560955",
-        "playerName": "Josh Allen"
+        "playerName": "Josh Allen",
+        "postTradePoints": 139.82
       },
       {
         "fromUserId": "24385872",
@@ -163,7 +179,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2564556",
-        "playerName": "Justin Jefferson"
+        "playerName": "Justin Jefferson",
+        "postTradePoints": 120.50000000000001
       },
       {
         "fromUserId": "24396605",
@@ -171,7 +188,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "100032",
-        "playerName": "Washington Commanders"
+        "playerName": "Washington Commanders",
+        "postTradePoints": 13
       },
       {
         "fromUserId": "24396605",
@@ -179,7 +197,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2559270",
-        "playerName": "Robert Tonyan"
+        "playerName": "Robert Tonyan",
+        "postTradePoints": 57
       }
     ]
   },
@@ -195,7 +214,8 @@
         "toUserId": "24139678",
         "toManagerName": "Iain",
         "playerId": "2564223",
-        "playerName": "James Robinson"
+        "playerName": "James Robinson",
+        "postTradePoints": 86.69999999999999
       },
       {
         "fromUserId": "24139678",
@@ -203,7 +223,8 @@
         "toUserId": "24396653",
         "toManagerName": "Elvis",
         "playerId": "2557991",
-        "playerName": "Dalvin Cook"
+        "playerName": "Dalvin Cook",
+        "postTradePoints": 103
       }
     ]
   },
@@ -219,7 +240,8 @@
         "toUserId": "24396653",
         "toManagerName": "Elvis",
         "playerId": "2506363",
-        "playerName": "Aaron Rodgers"
+        "playerName": "Aaron Rodgers",
+        "postTradePoints": 180.1
       },
       {
         "fromUserId": "24396653",
@@ -227,7 +249,8 @@
         "toUserId": "24396935",
         "toManagerName": "Dan",
         "playerId": "2495455",
-        "playerName": "Cam Newton"
+        "playerName": "Cam Newton",
+        "postTradePoints": 108.72
       }
     ]
   },
@@ -243,7 +266,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2564556",
-        "playerName": "Justin Jefferson"
+        "playerName": "Justin Jefferson",
+        "postTradePoints": 120.50000000000001
       },
       {
         "fromUserId": "24385872",
@@ -251,7 +275,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2535698",
-        "playerName": "Cole Beasley"
+        "playerName": "Cole Beasley",
+        "postTradePoints": 67.6
       },
       {
         "fromUserId": "24385872",
@@ -259,7 +284,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2565144",
-        "playerName": "DeeJay Dallas"
+        "playerName": "DeeJay Dallas",
+        "postTradePoints": 9
       },
       {
         "fromUserId": "24396605",
@@ -267,7 +293,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2552409",
-        "playerName": "DeVante Parker"
+        "playerName": "DeVante Parker",
+        "postTradePoints": 26.4
       }
     ]
   },
@@ -283,7 +310,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2565144",
-        "playerName": "DeeJay Dallas"
+        "playerName": "DeeJay Dallas",
+        "postTradePoints": 9
       },
       {
         "fromUserId": "24385872",
@@ -291,7 +319,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2561021",
-        "playerName": "Nick Chubb"
+        "playerName": "Nick Chubb",
+        "postTradePoints": 111.3
       }
     ]
   },
@@ -307,7 +336,8 @@
         "toUserId": "24396653",
         "toManagerName": "Elvis",
         "playerId": "2564223",
-        "playerName": "James Robinson"
+        "playerName": "James Robinson",
+        "postTradePoints": 75.3
       },
       {
         "fromUserId": "24396653",
@@ -315,7 +345,8 @@
         "toUserId": "24139678",
         "toManagerName": "Iain",
         "playerId": "2557991",
-        "playerName": "Dalvin Cook"
+        "playerName": "Dalvin Cook",
+        "postTradePoints": 79
       }
     ]
   },
@@ -331,7 +362,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "100019",
-        "playerName": "Miami Dolphins"
+        "playerName": "Miami Dolphins",
+        "postTradePoints": 28
       },
       {
         "fromUserId": "21397394",
@@ -339,7 +371,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2540165",
-        "playerName": "DeAndre Hopkins"
+        "playerName": "DeAndre Hopkins",
+        "postTradePoints": 88.8
       },
       {
         "fromUserId": "21397394",
@@ -347,7 +380,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2552608",
-        "playerName": "Stefon Diggs"
+        "playerName": "Stefon Diggs",
+        "postTradePoints": 99.5
       },
       {
         "fromUserId": "21397394",
@@ -355,7 +389,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2556075",
-        "playerName": "Derrick Henry"
+        "playerName": "Derrick Henry",
+        "postTradePoints": 137.8
       },
       {
         "fromUserId": "24385872",
@@ -363,7 +398,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "100014",
-        "playerName": "Indianapolis Colts"
+        "playerName": "Indianapolis Colts",
+        "postTradePoints": 52
       },
       {
         "fromUserId": "24385872",
@@ -371,7 +407,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2508061",
-        "playerName": "Antonio Brown"
+        "playerName": "Antonio Brown",
+        "postTradePoints": 70.1
       },
       {
         "fromUserId": "24385872",
@@ -379,7 +416,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2560770",
-        "playerName": "Ronald Jones"
+        "playerName": "Ronald Jones",
+        "postTradePoints": 32.7
       }
     ]
   },
@@ -395,7 +433,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2540258",
-        "playerName": "Travis Kelce"
+        "playerName": "Travis Kelce",
+        "postTradePoints": 94.2
       },
       {
         "fromUserId": "24203568",
@@ -403,7 +442,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2560883",
-        "playerName": "Unknown player 2560883"
+        "playerName": "Unknown player 2560883",
+        "postTradePoints": 0
       },
       {
         "fromUserId": "24203568",
@@ -411,7 +451,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2564970",
-        "playerName": "Chase Claypool"
+        "playerName": "Chase Claypool",
+        "postTradePoints": 29.3
       },
       {
         "fromUserId": "24203568",
@@ -419,7 +460,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2565045",
-        "playerName": "Justin Herbert"
+        "playerName": "Justin Herbert",
+        "postTradePoints": 110.45999999999998
       }
     ]
   },
@@ -435,7 +477,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "100002",
-        "playerName": "Baltimore Ravens"
+        "playerName": "Baltimore Ravens",
+        "postTradePoints": 40
       },
       {
         "fromUserId": "24396605",
@@ -443,7 +486,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2560955",
-        "playerName": "Josh Allen"
+        "playerName": "Josh Allen",
+        "postTradePoints": 139.82
       },
       {
         "fromUserId": "24396605",
@@ -451,7 +495,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2561021",
-        "playerName": "Nick Chubb"
+        "playerName": "Nick Chubb",
+        "postTradePoints": 99.89999999999999
       },
       {
         "fromUserId": "24385872",
@@ -459,7 +504,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2564271",
-        "playerName": "Clyde Edwards-Helaire"
+        "playerName": "Clyde Edwards-Helaire",
+        "postTradePoints": 28.3
       },
       {
         "fromUserId": "24385872",
@@ -467,7 +513,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2565144",
-        "playerName": "DeeJay Dallas"
+        "playerName": "DeeJay Dallas",
+        "postTradePoints": 3.8
       }
     ]
   },
@@ -483,7 +530,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2543495",
-        "playerName": "Davante Adams"
+        "playerName": "Davante Adams",
+        "postTradePoints": 104.5
       },
       {
         "fromUserId": "21397394",
@@ -491,7 +539,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2557997",
-        "playerName": "Christian McCaffrey"
+        "playerName": "Christian McCaffrey",
+        "postTradePoints": 0
       },
       {
         "fromUserId": "21397394",
@@ -499,7 +548,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2558116",
-        "playerName": "Aaron Jones"
+        "playerName": "Aaron Jones",
+        "postTradePoints": 86.6
       },
       {
         "fromUserId": "21397394",
@@ -507,7 +557,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2560770",
-        "playerName": "Ronald Jones"
+        "playerName": "Ronald Jones",
+        "postTradePoints": 32.7
       },
       {
         "fromUserId": "24203568",
@@ -515,7 +566,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2543715",
-        "playerName": "Jerick McKinnon"
+        "playerName": "Jerick McKinnon",
+        "postTradePoints": 0
       },
       {
         "fromUserId": "24203568",
@@ -523,7 +575,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2560711",
-        "playerName": "Chase Edmonds"
+        "playerName": "Chase Edmonds",
+        "postTradePoints": 39.5
       }
     ]
   },
@@ -539,7 +592,8 @@
         "toUserId": "24139678",
         "toManagerName": "Iain",
         "playerId": "2558125",
-        "playerName": "Patrick Mahomes"
+        "playerName": "Patrick Mahomes",
+        "postTradePoints": 109.08
       },
       {
         "fromUserId": "24139678",
@@ -547,7 +601,8 @@
         "toUserId": "24396645",
         "toManagerName": "Datta",
         "playerId": "2543499",
-        "playerName": "Derek Carr"
+        "playerName": "Derek Carr",
+        "postTradePoints": 95.04
       },
       {
         "fromUserId": "24139678",
@@ -555,7 +610,8 @@
         "toUserId": "24396645",
         "toManagerName": "Datta",
         "playerId": "2552487",
-        "playerName": "Amari Cooper"
+        "playerName": "Amari Cooper",
+        "postTradePoints": 67
       },
       {
         "fromUserId": "24396645",
@@ -563,7 +619,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2562580",
-        "playerName": "Mecole Hardman"
+        "playerName": "Mecole Hardman",
+        "postTradePoints": 0
       }
     ]
   },
@@ -579,7 +636,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2540258",
-        "playerName": "Travis Kelce"
+        "playerName": "Travis Kelce",
+        "postTradePoints": 78
       },
       {
         "fromUserId": "24203568",
@@ -587,7 +645,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2563596",
-        "playerName": "Tyler Bass"
+        "playerName": "Tyler Bass",
+        "postTradePoints": 37
       },
       {
         "fromUserId": "24385872",
@@ -595,7 +654,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2559205",
-        "playerName": "Younghoe Koo"
+        "playerName": "Younghoe Koo",
+        "postTradePoints": 37
       },
       {
         "fromUserId": "24385872",
@@ -603,7 +663,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2564970",
-        "playerName": "Chase Claypool"
+        "playerName": "Chase Claypool",
+        "postTradePoints": 18.1
       },
       {
         "fromUserId": "24385872",
@@ -611,7 +672,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2565045",
-        "playerName": "Justin Herbert"
+        "playerName": "Justin Herbert",
+        "postTradePoints": 94.02
       },
       {
         "fromUserId": "24203568",
@@ -619,7 +681,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2552033",
-        "playerName": "Jameis Winston"
+        "playerName": "Jameis Winston",
+        "postTradePoints": 0
       }
     ]
   },
@@ -635,7 +698,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2553728",
-        "playerName": "Raheem Mostert"
+        "playerName": "Raheem Mostert",
+        "postTradePoints": 12.1
       },
       {
         "fromUserId": "24385872",
@@ -643,7 +707,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2560968",
-        "playerName": "Saquon Barkley"
+        "playerName": "Saquon Barkley",
+        "postTradePoints": 0
       }
     ]
   },
@@ -659,7 +724,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2540154",
-        "playerName": "Keenan Allen"
+        "playerName": "Keenan Allen",
+        "postTradePoints": 32.6
       },
       {
         "fromUserId": "24385872",
@@ -667,7 +733,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2540156",
-        "playerName": "Giovani Bernard"
+        "playerName": "Giovani Bernard",
+        "postTradePoints": 2.3
       },
       {
         "fromUserId": "24385872",
@@ -675,7 +742,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2560854",
-        "playerName": "Calvin Ridley"
+        "playerName": "Calvin Ridley",
+        "postTradePoints": 84.1
       }
     ]
   },
@@ -691,7 +759,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2557978",
-        "playerName": "James Conner"
+        "playerName": "James Conner",
+        "postTradePoints": 0
       },
       {
         "fromUserId": "24385872",
@@ -699,7 +768,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2557917",
-        "playerName": "Kareem Hunt"
+        "playerName": "Kareem Hunt",
+        "postTradePoints": 42.5
       }
     ]
   },
@@ -715,7 +785,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2540156",
-        "playerName": "Giovani Bernard"
+        "playerName": "Giovani Bernard",
+        "postTradePoints": 2.3
       },
       {
         "fromUserId": "24385872",
@@ -723,7 +794,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "100019",
-        "playerName": "Miami Dolphins"
+        "playerName": "Miami Dolphins",
+        "postTradePoints": 0
       }
     ]
   },
@@ -739,7 +811,8 @@
         "toUserId": "24396653",
         "toManagerName": "Elvis",
         "playerId": "2561153",
-        "playerName": "Jason Sanders"
+        "playerName": "Jason Sanders",
+        "postTradePoints": 8
       },
       {
         "fromUserId": "24396653",
@@ -747,7 +820,8 @@
         "toUserId": "24139678",
         "toManagerName": "Iain",
         "playerId": "2556601",
-        "playerName": "Wil Lutz"
+        "playerName": "Wil Lutz",
+        "postTradePoints": 8
       }
     ]
   },
@@ -763,7 +837,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2564832",
-        "playerName": "Jalen Hurts"
+        "playerName": "Jalen Hurts",
+        "postTradePoints": 302.20000000000005
       },
       {
         "fromUserId": "24385872",
@@ -771,7 +846,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2532820",
-        "playerName": "Kirk Cousins"
+        "playerName": "Kirk Cousins",
+        "postTradePoints": 309.85
       }
     ]
   },
@@ -787,7 +863,8 @@
         "toUserId": "26081190",
         "toManagerName": "Varun",
         "playerId": "2562502",
-        "playerName": "David Montgomery"
+        "playerName": "David Montgomery",
+        "postTradePoints": 167.8
       },
       {
         "fromUserId": "26081190",
@@ -795,7 +872,8 @@
         "toUserId": "24139678",
         "toManagerName": "Iain",
         "playerId": "2555224",
-        "playerName": "Ezekiel Elliott"
+        "playerName": "Ezekiel Elliott",
+        "postTradePoints": 240.16000000000003
       }
     ]
   },
@@ -811,7 +889,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2560888",
-        "playerName": "Courtland Sutton"
+        "playerName": "Courtland Sutton",
+        "postTradePoints": 120.00000000000001
       },
       {
         "fromUserId": "15140932",
@@ -819,7 +898,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2535698",
-        "playerName": "Cole Beasley"
+        "playerName": "Cole Beasley",
+        "postTradePoints": 101.5
       }
     ]
   },
@@ -835,7 +915,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2540169",
-        "playerName": "Robert Woods"
+        "playerName": "Robert Woods",
+        "postTradePoints": 113.80000000000001
       },
       {
         "fromUserId": "26081190",
@@ -843,7 +924,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2564319",
-        "playerName": "Cam Akers"
+        "playerName": "Cam Akers",
+        "postTradePoints": 0
       },
       {
         "fromUserId": "24385872",
@@ -851,7 +933,8 @@
         "toUserId": "26081190",
         "toManagerName": "Varun",
         "playerId": "2555346",
-        "playerName": "Will Fuller"
+        "playerName": "Will Fuller",
+        "postTradePoints": 8.6
       },
       {
         "fromUserId": "24385872",
@@ -859,7 +942,8 @@
         "toUserId": "26081190",
         "toManagerName": "Varun",
         "playerId": "2566538",
-        "playerName": "Elijah Mitchell"
+        "playerName": "Elijah Mitchell",
+        "postTradePoints": 132.8
       }
     ]
   },
@@ -875,7 +959,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2557898",
-        "playerName": "Cooper Kupp"
+        "playerName": "Cooper Kupp",
+        "postTradePoints": 354.42
       },
       {
         "fromUserId": "21397394",
@@ -883,7 +968,8 @@
         "toUserId": "24139678",
         "toManagerName": "Iain",
         "playerId": "2495454",
-        "playerName": "Julio Jones"
+        "playerName": "Julio Jones",
+        "postTradePoints": 39.2
       }
     ]
   },
@@ -899,7 +985,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2535698",
-        "playerName": "Cole Beasley"
+        "playerName": "Cole Beasley",
+        "postTradePoints": 80.7
       },
       {
         "fromUserId": "24396605",
@@ -907,7 +994,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2555295",
-        "playerName": "Sterling Shepard"
+        "playerName": "Sterling Shepard",
+        "postTradePoints": 26.1
       }
     ]
   },
@@ -923,7 +1011,8 @@
         "toUserId": "24139678",
         "toManagerName": "Iain",
         "playerId": "2504211",
-        "playerName": "Tom Brady"
+        "playerName": "Tom Brady",
+        "postTradePoints": 324.21999999999997
       },
       {
         "fromUserId": "24139678",
@@ -931,7 +1020,8 @@
         "toUserId": "24396645",
         "toManagerName": "Datta",
         "playerId": "2553439",
-        "playerName": "Mike Davis"
+        "playerName": "Mike Davis",
+        "postTradePoints": 45
       },
       {
         "fromUserId": "24139678",
@@ -939,7 +1029,8 @@
         "toUserId": "24396645",
         "toManagerName": "Datta",
         "playerId": "2558204",
-        "playerName": "Jamaal Williams"
+        "playerName": "Jamaal Williams",
+        "postTradePoints": 31.799999999999997
       },
       {
         "fromUserId": "24139678",
@@ -947,7 +1038,8 @@
         "toUserId": "24396645",
         "toManagerName": "Datta",
         "playerId": "2562238",
-        "playerName": "A.J. Brown"
+        "playerName": "A.J. Brown",
+        "postTradePoints": 107
       }
     ]
   },
@@ -963,7 +1055,8 @@
         "toUserId": "24139678",
         "toManagerName": "Iain",
         "playerId": "2558116",
-        "playerName": "Aaron Jones"
+        "playerName": "Aaron Jones",
+        "postTradePoints": 165.46
       },
       {
         "fromUserId": "15140932",
@@ -971,7 +1064,8 @@
         "toUserId": "24139678",
         "toManagerName": "Iain",
         "playerId": "2560854",
-        "playerName": "Calvin Ridley"
+        "playerName": "Calvin Ridley",
+        "postTradePoints": 28.6
       },
       {
         "fromUserId": "24139678",
@@ -979,7 +1073,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2495454",
-        "playerName": "Julio Jones"
+        "playerName": "Julio Jones",
+        "postTradePoints": 30.500000000000004
       },
       {
         "fromUserId": "24139678",
@@ -987,7 +1082,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2555224",
-        "playerName": "Ezekiel Elliott"
+        "playerName": "Ezekiel Elliott",
+        "postTradePoints": 195.86
       },
       {
         "fromUserId": "24139678",
@@ -995,7 +1091,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2560757",
-        "playerName": "Lamar Jackson"
+        "playerName": "Lamar Jackson",
+        "postTradePoints": 194.44
       },
       {
         "fromUserId": "15140932",
@@ -1003,7 +1100,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2566391",
-        "playerName": "Zach Wilson"
+        "playerName": "Zach Wilson",
+        "postTradePoints": 0
       }
     ]
   },
@@ -1019,7 +1117,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2566157",
-        "playerName": "Travis Etienne"
+        "playerName": "Travis Etienne",
+        "postTradePoints": 0
       },
       {
         "fromUserId": "24385872",
@@ -1027,7 +1126,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2564319",
-        "playerName": "Cam Akers"
+        "playerName": "Cam Akers",
+        "postTradePoints": 0
       }
     ]
   },
@@ -1043,7 +1143,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2543468",
-        "playerName": "Mike Evans"
+        "playerName": "Mike Evans",
+        "postTradePoints": 188.1
       },
       {
         "fromUserId": "24203568",
@@ -1051,7 +1152,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2560995",
-        "playerName": "Dallas Goedert"
+        "playerName": "Dallas Goedert",
+        "postTradePoints": 64.5
       }
     ]
   },
@@ -1067,7 +1169,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2560711",
-        "playerName": "Chase Edmonds"
+        "playerName": "Chase Edmonds",
+        "postTradePoints": 86.2
       },
       {
         "fromUserId": "24203568",
@@ -1075,7 +1178,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2566292",
-        "playerName": "Jaylen Waddle"
+        "playerName": "Jaylen Waddle",
+        "postTradePoints": 194.82000000000002
       }
     ]
   },
@@ -1091,7 +1195,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2563596",
-        "playerName": "Tyler Bass"
+        "playerName": "Tyler Bass",
+        "postTradePoints": 66
       },
       {
         "fromUserId": "24385872",
@@ -1099,7 +1204,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2565953",
-        "playerName": "Evan McPherson"
+        "playerName": "Evan McPherson",
+        "postTradePoints": 61
       }
     ]
   },
@@ -1115,7 +1221,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "497240",
-        "playerName": "Rob Gronkowski"
+        "playerName": "Rob Gronkowski",
+        "postTradePoints": 92.10000000000001
       },
       {
         "fromUserId": "24203568",
@@ -1123,7 +1230,8 @@
         "toUserId": "24396645",
         "toManagerName": "Datta",
         "playerId": "100009",
-        "playerName": "Denver Broncos"
+        "playerName": "Denver Broncos",
+        "postTradePoints": 68
       },
       {
         "fromUserId": "24203568",
@@ -1131,7 +1239,8 @@
         "toUserId": "24396645",
         "toManagerName": "Datta",
         "playerId": "497322",
-        "playerName": "Emmanuel Sanders"
+        "playerName": "Emmanuel Sanders",
+        "postTradePoints": 52.8
       },
       {
         "fromUserId": "24203568",
@@ -1139,7 +1248,8 @@
         "toUserId": "24396645",
         "toManagerName": "Datta",
         "playerId": "2556462",
-        "playerName": "Robby Anderson"
+        "playerName": "Robby Anderson",
+        "postTradePoints": 0
       },
       {
         "fromUserId": "24203568",
@@ -1147,7 +1257,8 @@
         "toUserId": "24396645",
         "toManagerName": "Datta",
         "playerId": "2560866",
-        "playerName": "Dalton Schultz"
+        "playerName": "Dalton Schultz",
+        "postTradePoints": 87.10000000000001
       },
       {
         "fromUserId": "24396645",
@@ -1155,7 +1266,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "71265",
-        "playerName": "Jared Cook"
+        "playerName": "Jared Cook",
+        "postTradePoints": 59.400000000000006
       },
       {
         "fromUserId": "24396645",
@@ -1163,7 +1275,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2558245",
-        "playerName": "Harrison Butker"
+        "playerName": "Harrison Butker",
+        "postTradePoints": 20
       },
       {
         "fromUserId": "24396645",
@@ -1171,7 +1284,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2560994",
-        "playerName": "Mike Gesicki"
+        "playerName": "Mike Gesicki",
+        "postTradePoints": 89.4
       }
     ]
   },
@@ -1187,7 +1301,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2540169",
-        "playerName": "Robert Woods"
+        "playerName": "Robert Woods",
+        "postTradePoints": 17.4
       },
       {
         "fromUserId": "24385872",
@@ -1195,7 +1310,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2565276",
-        "playerName": "Antonio Gibson"
+        "playerName": "Antonio Gibson",
+        "postTradePoints": 109.39999999999999
       },
       {
         "fromUserId": "24385872",
@@ -1203,7 +1319,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2566049",
-        "playerName": "Javonte Williams"
+        "playerName": "Javonte Williams",
+        "postTradePoints": 116.49999999999999
       },
       {
         "fromUserId": "15140932",
@@ -1211,7 +1328,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2555224",
-        "playerName": "Ezekiel Elliott"
+        "playerName": "Ezekiel Elliott",
+        "postTradePoints": 119.16
       },
       {
         "fromUserId": "15140932",
@@ -1219,7 +1337,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2564319",
-        "playerName": "Cam Akers"
+        "playerName": "Cam Akers",
+        "postTradePoints": 0
       },
       {
         "fromUserId": "15140932",
@@ -1227,7 +1346,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2565914",
-        "playerName": "Tommy Tremble"
+        "playerName": "Tommy Tremble",
+        "postTradePoints": 0
       }
     ]
   },
@@ -1243,7 +1363,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2566049",
-        "playerName": "Javonte Williams"
+        "playerName": "Javonte Williams",
+        "postTradePoints": 116.49999999999999
       },
       {
         "fromUserId": "24385872",
@@ -1251,7 +1372,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2555230",
-        "playerName": "Kenyan Drake"
+        "playerName": "Kenyan Drake",
+        "postTradePoints": 36.36
       }
     ]
   },
@@ -1267,7 +1389,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2557848",
-        "playerName": "Corey Davis"
+        "playerName": "Corey Davis",
+        "postTradePoints": 10
       },
       {
         "fromUserId": "24385872",
@@ -1275,7 +1398,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2562682",
-        "playerName": "Alexander Mattison"
+        "playerName": "Alexander Mattison",
+        "postTradePoints": 47.89999999999999
       },
       {
         "fromUserId": "24396605",
@@ -1283,7 +1407,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2562699",
-        "playerName": "Tony Pollard"
+        "playerName": "Tony Pollard",
+        "postTradePoints": 66.10000000000001
       },
       {
         "fromUserId": "24396605",
@@ -1291,7 +1416,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2565093",
-        "playerName": "Brandon Aiyuk"
+        "playerName": "Brandon Aiyuk",
+        "postTradePoints": 76.14
       }
     ]
   },
@@ -1307,7 +1433,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2556075",
-        "playerName": "Derrick Henry"
+        "playerName": "Derrick Henry",
+        "postTradePoints": 196.3
       },
       {
         "fromUserId": "15140932",
@@ -1315,7 +1442,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2558019",
-        "playerName": "Alvin Kamara"
+        "playerName": "Alvin Kamara",
+        "postTradePoints": 218.66
       }
     ]
   },
@@ -1331,7 +1459,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2557976",
-        "playerName": "Joe Mixon"
+        "playerName": "Joe Mixon",
+        "postTradePoints": 178.5
       },
       {
         "fromUserId": "15140932",
@@ -1339,7 +1468,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2543499",
-        "playerName": "Derek Carr"
+        "playerName": "Derek Carr",
+        "postTradePoints": 215.94
       },
       {
         "fromUserId": "15140932",
@@ -1347,7 +1477,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2559169",
-        "playerName": "Austin Ekeler"
+        "playerName": "Austin Ekeler",
+        "postTradePoints": 306.20000000000005
       },
       {
         "fromUserId": "24203568",
@@ -1355,7 +1486,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "100014",
-        "playerName": "Indianapolis Colts"
+        "playerName": "Indianapolis Colts",
+        "postTradePoints": 20
       }
     ]
   },
@@ -1371,7 +1503,8 @@
         "toUserId": "24139678",
         "toManagerName": "Iain",
         "playerId": "2560968",
-        "playerName": "Saquon Barkley"
+        "playerName": "Saquon Barkley",
+        "postTradePoints": 211.49999999999997
       },
       {
         "fromUserId": "24396645",
@@ -1379,7 +1512,8 @@
         "toUserId": "24139678",
         "toManagerName": "Iain",
         "playerId": "2566382",
-        "playerName": "Michael Carter"
+        "playerName": "Michael Carter",
+        "postTradePoints": 84.5
       },
       {
         "fromUserId": "24139678",
@@ -1387,7 +1521,8 @@
         "toUserId": "24396645",
         "toManagerName": "Datta",
         "playerId": "2543498",
-        "playerName": "Brandin Cooks"
+        "playerName": "Brandin Cooks",
+        "postTradePoints": 85.99999999999999
       },
       {
         "fromUserId": "24139678",
@@ -1395,7 +1530,8 @@
         "toUserId": "24396645",
         "toManagerName": "Datta",
         "playerId": "2558019",
-        "playerName": "Alvin Kamara"
+        "playerName": "Alvin Kamara",
+        "postTradePoints": 169.09999999999997
       }
     ]
   },
@@ -1411,7 +1547,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2560957",
-        "playerName": "Mark Andrews"
+        "playerName": "Mark Andrews",
+        "postTradePoints": 153.60000000000002
       },
       {
         "fromUserId": "24385872",
@@ -1419,7 +1556,8 @@
         "toUserId": "21949043",
         "toManagerName": "Mack",
         "playerId": "2560742",
-        "playerName": "Nyheim Hines"
+        "playerName": "Nyheim Hines",
+        "postTradePoints": 54.9
       },
       {
         "fromUserId": "24385872",
@@ -1427,7 +1565,8 @@
         "toUserId": "21949043",
         "toManagerName": "Mack",
         "playerId": "2562674",
-        "playerName": "Diontae Johnson"
+        "playerName": "Diontae Johnson",
+        "postTradePoints": 126.7
       },
       {
         "fromUserId": "24385872",
@@ -1435,7 +1574,8 @@
         "toUserId": "21949043",
         "toManagerName": "Mack",
         "playerId": "2563704",
-        "playerName": "Cole Kmet"
+        "playerName": "Cole Kmet",
+        "postTradePoints": 41.599999999999994
       },
       {
         "fromUserId": "21949043",
@@ -1443,7 +1583,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2555341",
-        "playerName": "Hunter Henry"
+        "playerName": "Hunter Henry",
+        "postTradePoints": 0
       },
       {
         "fromUserId": "21949043",
@@ -1451,7 +1592,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2562492",
-        "playerName": "Jakobi Meyers"
+        "playerName": "Jakobi Meyers",
+        "postTradePoints": 117.10000000000001
       }
     ]
   },
@@ -1467,7 +1609,8 @@
         "toUserId": "24139678",
         "toManagerName": "Iain",
         "playerId": "2563731",
-        "playerName": "Tee Higgins"
+        "playerName": "Tee Higgins",
+        "postTradePoints": 154.3
       },
       {
         "fromUserId": "26081190",
@@ -1475,7 +1618,8 @@
         "toUserId": "24139678",
         "toManagerName": "Iain",
         "playerId": "2568282",
-        "playerName": "Kenneth Walker III"
+        "playerName": "Kenneth Walker III",
+        "postTradePoints": 166.8
       },
       {
         "fromUserId": "24139678",
@@ -1483,7 +1627,8 @@
         "toUserId": "26081190",
         "toManagerName": "Varun",
         "playerId": "2543509",
-        "playerName": "Allen Robinson"
+        "playerName": "Allen Robinson",
+        "postTradePoints": 63.099999999999994
       },
       {
         "fromUserId": "24139678",
@@ -1491,7 +1636,8 @@
         "toUserId": "26081190",
         "toManagerName": "Varun",
         "playerId": "2562281",
-        "playerName": "Damien Harris"
+        "playerName": "Damien Harris",
+        "postTradePoints": 47.60000000000001
       }
     ]
   },
@@ -1507,7 +1653,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2566538",
-        "playerName": "Elijah Mitchell"
+        "playerName": "Elijah Mitchell",
+        "postTradePoints": 22
       },
       {
         "fromUserId": "24396605",
@@ -1515,7 +1662,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2532820",
-        "playerName": "Kirk Cousins"
+        "playerName": "Kirk Cousins",
+        "postTradePoints": 212.7
       }
     ]
   },
@@ -1531,7 +1679,8 @@
         "toUserId": "29715489",
         "toManagerName": "Pavi",
         "playerId": "2552608",
-        "playerName": "Stefon Diggs"
+        "playerName": "Stefon Diggs",
+        "postTradePoints": 287.6
       },
       {
         "fromUserId": "29715489",
@@ -1539,7 +1688,8 @@
         "toUserId": "26081190",
         "toManagerName": "Varun",
         "playerId": "2562489",
-        "playerName": "Terry McLaurin"
+        "playerName": "Terry McLaurin",
+        "postTradePoints": 211.6
       }
     ]
   },
@@ -1555,7 +1705,8 @@
         "toUserId": "29715489",
         "toManagerName": "Pavi",
         "playerId": "2552608",
-        "playerName": "Stefon Diggs"
+        "playerName": "Stefon Diggs",
+        "postTradePoints": 287.6
       },
       {
         "fromUserId": "29715489",
@@ -1563,7 +1714,8 @@
         "toUserId": "26081190",
         "toManagerName": "Varun",
         "playerId": "2562489",
-        "playerName": "Terry McLaurin"
+        "playerName": "Terry McLaurin",
+        "postTradePoints": 211.6
       }
     ]
   },
@@ -1579,7 +1731,8 @@
         "toUserId": "24396935",
         "toManagerName": "Dan",
         "playerId": "2566538",
-        "playerName": "Elijah Mitchell"
+        "playerName": "Elijah Mitchell",
+        "postTradePoints": 6.3
       },
       {
         "fromUserId": "24396935",
@@ -1587,7 +1740,8 @@
         "toUserId": "24396605",
         "toManagerName": "Max",
         "playerId": "2563986",
-        "playerName": "AJ Dillon"
+        "playerName": "AJ Dillon",
+        "postTradePoints": 83.7
       }
     ]
   },
@@ -1603,7 +1757,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2558204",
-        "playerName": "Jamaal Williams"
+        "playerName": "Jamaal Williams",
+        "postTradePoints": 39.3
       },
       {
         "fromUserId": "24385872",
@@ -1611,7 +1766,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2564136",
-        "playerName": "Michael Pittman"
+        "playerName": "Michael Pittman",
+        "postTradePoints": 27.6
       },
       {
         "fromUserId": "15140932",
@@ -1619,7 +1775,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2562379",
-        "playerName": "Marquise Brown"
+        "playerName": "Marquise Brown",
+        "postTradePoints": 34.2
       },
       {
         "fromUserId": "15140932",
@@ -1627,7 +1784,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2562699",
-        "playerName": "Tony Pollard"
+        "playerName": "Tony Pollard",
+        "postTradePoints": 75.4
       }
     ]
   },
@@ -1643,7 +1801,8 @@
         "toUserId": "24396935",
         "toManagerName": "Dan",
         "playerId": "2563548",
-        "playerName": "J.K. Dobbins"
+        "playerName": "J.K. Dobbins",
+        "postTradePoints": 15.200000000000001
       },
       {
         "fromUserId": "24396935",
@@ -1651,7 +1810,8 @@
         "toUserId": "21949043",
         "toManagerName": "Mack",
         "playerId": "2553728",
-        "playerName": "Raheem Mostert"
+        "playerName": "Raheem Mostert",
+        "postTradePoints": 34.72
       },
       {
         "fromUserId": "24396935",
@@ -1659,7 +1819,8 @@
         "toUserId": "21949043",
         "toManagerName": "Mack",
         "playerId": "2558138",
-        "playerName": "Samaje Perine"
+        "playerName": "Samaje Perine",
+        "postTradePoints": 5.2
       }
     ]
   },
@@ -1675,7 +1836,8 @@
         "toUserId": "24396935",
         "toManagerName": "Dan",
         "playerId": "2568030",
-        "playerName": "Breece Hall"
+        "playerName": "Breece Hall",
+        "postTradePoints": 151.3
       },
       {
         "fromUserId": "24385872",
@@ -1683,7 +1845,8 @@
         "toUserId": "24396935",
         "toManagerName": "Dan",
         "playerId": "2569573",
-        "playerName": "Zay Flowers"
+        "playerName": "Zay Flowers",
+        "postTradePoints": 107
       },
       {
         "fromUserId": "24396935",
@@ -1691,7 +1854,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2568048",
-        "playerName": "Garrett Wilson"
+        "playerName": "Garrett Wilson",
+        "postTradePoints": 89.60000000000001
       },
       {
         "fromUserId": "24396935",
@@ -1699,7 +1863,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2569558",
-        "playerName": "Bijan Robinson"
+        "playerName": "Bijan Robinson",
+        "postTradePoints": 105.72
       }
     ]
   },
@@ -1715,7 +1880,8 @@
         "toUserId": "24396935",
         "toManagerName": "Dan",
         "playerId": "2540165",
-        "playerName": "DeAndre Hopkins"
+        "playerName": "DeAndre Hopkins",
+        "postTradePoints": 90.39999999999999
       },
       {
         "fromUserId": "15140932",
@@ -1723,7 +1889,8 @@
         "toUserId": "24396935",
         "toManagerName": "Dan",
         "playerId": "2562685",
-        "playerName": "DK Metcalf"
+        "playerName": "DK Metcalf",
+        "postTradePoints": 121.19999999999999
       },
       {
         "fromUserId": "24396935",
@@ -1731,7 +1898,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2552487",
-        "playerName": "Amari Cooper"
+        "playerName": "Amari Cooper",
+        "postTradePoints": 101.5
       },
       {
         "fromUserId": "24396935",
@@ -1739,7 +1907,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2567808",
-        "playerName": "Isiah Pacheco"
+        "playerName": "Isiah Pacheco",
+        "postTradePoints": 96.39999999999999
       }
     ]
   },
@@ -1755,7 +1924,8 @@
         "toUserId": "24385872",
         "toManagerName": "Shash",
         "playerId": "2571883",
-        "playerName": "Jonathon Brooks"
+        "playerName": "Jonathon Brooks",
+        "postTradePoints": 7.8
       },
       {
         "fromUserId": "24385872",
@@ -1763,7 +1933,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2569795",
-        "playerName": "Tyjae Spears"
+        "playerName": "Tyjae Spears",
+        "postTradePoints": 88.96000000000001
       }
     ]
   },
@@ -1779,7 +1950,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2571913",
-        "playerName": "Caleb Williams"
+        "playerName": "Caleb Williams",
+        "postTradePoints": 234.27999999999997
       },
       {
         "fromUserId": "24203568",
@@ -1787,7 +1959,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2555260",
-        "playerName": "Dak Prescott"
+        "playerName": "Dak Prescott",
+        "postTradePoints": 108.13999999999999
       }
     ]
   },
@@ -1803,7 +1976,8 @@
         "toUserId": "24396935",
         "toManagerName": "Dan",
         "playerId": "2543468",
-        "playerName": "Mike Evans"
+        "playerName": "Mike Evans",
+        "postTradePoints": 78.3
       },
       {
         "fromUserId": "24396935",
@@ -1811,7 +1985,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2568282",
-        "playerName": "Kenneth Walker III"
+        "playerName": "Kenneth Walker III",
+        "postTradePoints": 5.6
       }
     ]
   },
@@ -1827,7 +2002,8 @@
         "toUserId": "24139678",
         "toManagerName": "Iain",
         "playerId": "2566157",
-        "playerName": "Travis Etienne"
+        "playerName": "Travis Etienne",
+        "postTradePoints": 212.6
       },
       {
         "fromUserId": "24139678",
@@ -1835,7 +2011,8 @@
         "toUserId": "26081190",
         "toManagerName": "Varun",
         "playerId": "2566292",
-        "playerName": "Jaylen Waddle"
+        "playerName": "Jaylen Waddle",
+        "postTradePoints": 163.72
       },
       {
         "fromUserId": "24139678",
@@ -1843,7 +2020,8 @@
         "toUserId": "26081190",
         "toManagerName": "Varun",
         "playerId": "2569110",
-        "playerName": "Rashid Shaheed"
+        "playerName": "Rashid Shaheed",
+        "postTradePoints": 138.56
       },
       {
         "fromUserId": "26081190",
@@ -1851,7 +2029,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2566502",
-        "playerName": "Josh Palmer"
+        "playerName": "Josh Palmer",
+        "postTradePoints": 0
       }
     ]
   },
@@ -1867,7 +2046,8 @@
         "toUserId": "24396935",
         "toManagerName": "Dan",
         "playerId": "2567565",
-        "playerName": "Jameson Williams"
+        "playerName": "Jameson Williams",
+        "postTradePoints": 142.7
       },
       {
         "fromUserId": "24396935",
@@ -1875,7 +2055,8 @@
         "toUserId": "32354078",
         "toManagerName": "Karvin",
         "playerId": "2562721",
-        "playerName": "Deebo Samuel Sr."
+        "playerName": "Deebo Samuel Sr.",
+        "postTradePoints": 120.84000000000002
       }
     ]
   },
@@ -1891,7 +2072,8 @@
         "toUserId": "35069105",
         "toManagerName": "Rohan",
         "playerId": "2563722",
-        "playerName": "Joe Burrow"
+        "playerName": "Joe Burrow",
+        "postTradePoints": 141.32
       },
       {
         "fromUserId": "35069105",
@@ -1899,7 +2081,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "79860",
-        "playerName": "Matthew Stafford"
+        "playerName": "Matthew Stafford",
+        "postTradePoints": 376.79999999999995
       }
     ]
   },
@@ -1915,7 +2098,8 @@
         "toUserId": "24203568",
         "toManagerName": "Arthur",
         "playerId": "2569558",
-        "playerName": "Bijan Robinson"
+        "playerName": "Bijan Robinson",
+        "postTradePoints": 236.3
       },
       {
         "fromUserId": "24203568",
@@ -1923,7 +2107,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2567862",
-        "playerName": "Kyren Williams"
+        "playerName": "Kyren Williams",
+        "postTradePoints": 151.22
       },
       {
         "fromUserId": "24203568",
@@ -1931,7 +2116,8 @@
         "toUserId": "21397394",
         "toManagerName": "Farhaan",
         "playerId": "2570275",
-        "playerName": "Quentin Johnston"
+        "playerName": "Quentin Johnston",
+        "postTradePoints": 84.8
       }
     ]
   },
@@ -1947,7 +2133,8 @@
         "toUserId": "32354078",
         "toManagerName": "Karvin",
         "playerId": "2572186",
-        "playerName": "Xavier Worthy"
+        "playerName": "Xavier Worthy",
+        "postTradePoints": 65
       },
       {
         "fromUserId": "32354078",
@@ -1955,7 +2142,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2562489",
-        "playerName": "Terry McLaurin"
+        "playerName": "Terry McLaurin",
+        "postTradePoints": 71.30000000000001
       },
       {
         "fromUserId": "32354078",
@@ -1963,7 +2151,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2571859",
-        "playerName": "Keon Coleman"
+        "playerName": "Keon Coleman",
+        "postTradePoints": 36.040000000000006
       },
       {
         "fromUserId": "15140932",
@@ -1971,7 +2160,8 @@
         "toUserId": "",
         "toManagerName": "Free Agency",
         "playerId": "2574014",
-        "playerName": "Colston Loveland"
+        "playerName": "Colston Loveland",
+        "postTradePoints": 16.5
       }
     ]
   },
@@ -1987,7 +2177,8 @@
         "toUserId": "32354078",
         "toManagerName": "Karvin",
         "playerId": "2568493",
-        "playerName": "Jaylen Warren"
+        "playerName": "Jaylen Warren",
+        "postTradePoints": 103.43999999999997
       },
       {
         "fromUserId": "15140932",
@@ -1995,7 +2186,8 @@
         "toUserId": "32354078",
         "toManagerName": "Karvin",
         "playerId": "2572477",
-        "playerName": "Ladd McConkey"
+        "playerName": "Ladd McConkey",
+        "postTradePoints": 80.11999999999999
       },
       {
         "fromUserId": "15140932",
@@ -2003,7 +2195,8 @@
         "toUserId": "32354078",
         "toManagerName": "Karvin",
         "playerId": "2574053",
-        "playerName": "Quinshon Judkins"
+        "playerName": "Quinshon Judkins",
+        "postTradePoints": 67.8
       },
       {
         "fromUserId": "32354078",
@@ -2011,7 +2204,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2555295",
-        "playerName": "Sterling Shepard"
+        "playerName": "Sterling Shepard",
+        "postTradePoints": 25.2
       },
       {
         "fromUserId": "32354078",
@@ -2019,7 +2213,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2562721",
-        "playerName": "Deebo Samuel Sr."
+        "playerName": "Deebo Samuel Sr.",
+        "postTradePoints": 91.84
       },
       {
         "fromUserId": "32354078",
@@ -2027,7 +2222,8 @@
         "toUserId": "15140932",
         "toManagerName": "Ben",
         "playerId": "2565295",
-        "playerName": "Rico Dowdle"
+        "playerName": "Rico Dowdle",
+        "postTradePoints": 108.88
       }
     ]
   }
