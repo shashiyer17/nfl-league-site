@@ -1,0 +1,100 @@
+[
+  {
+    "userId": "21949043",
+    "managerName": "Mack",
+    "gamesPlayed": 42,
+    "mean": 118.21523809523812,
+    "stdDev": 19.91351535626914
+  },
+  {
+    "userId": "32354078",
+    "managerName": "Karvin",
+    "gamesPlayed": 42,
+    "mean": 118.84285714285713,
+    "stdDev": 21.15100208497475
+  },
+  {
+    "userId": "29715489",
+    "managerName": "Pavi",
+    "gamesPlayed": 14,
+    "mean": 119.99571428571429,
+    "stdDev": 24.954079892809176
+  },
+  {
+    "userId": "35069105",
+    "managerName": "Rohan",
+    "gamesPlayed": 14,
+    "mean": 107.39,
+    "stdDev": 26.39543521141487
+  },
+  {
+    "userId": "15140932",
+    "managerName": "Ben",
+    "gamesPlayed": 71,
+    "mean": 119.5170422535212,
+    "stdDev": 27.27754803572062
+  },
+  {
+    "userId": "24385872",
+    "managerName": "Shash",
+    "gamesPlayed": 86,
+    "mean": 132.0903488372093,
+    "stdDev": 27.286202781439233
+  },
+  {
+    "userId": "24396935",
+    "managerName": "Dan",
+    "gamesPlayed": 86,
+    "mean": 124.81953488372095,
+    "stdDev": 27.71641517890359
+  },
+  {
+    "userId": "26081190",
+    "managerName": "Varun",
+    "gamesPlayed": 71,
+    "mean": 118.09084507042257,
+    "stdDev": 27.762585549953936
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "gamesPlayed": 86,
+    "mean": 128.5068604651163,
+    "stdDev": 28.37942122121044
+  },
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "gamesPlayed": 86,
+    "mean": 109.84918604651162,
+    "stdDev": 28.993948748584902
+  },
+  {
+    "userId": "24203568",
+    "managerName": "Arthur",
+    "gamesPlayed": 86,
+    "mean": 117.993023255814,
+    "stdDev": 29.319309680893895
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "gamesPlayed": 86,
+    "mean": 123.33406976744179,
+    "stdDev": 29.40317275308936
+  },
+  {
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "gamesPlayed": 86,
+    "mean": 123.67732558139532,
+    "stdDev": 29.690007922033242
+  },
+  {
+    "userId": "24396605",
+    "managerName": "Max",
+    "gamesPlayed": 86,
+    "mean": 120.72174418604646,
+    "stdDev": 29.916981374615375
+  }
+]

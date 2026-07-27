@@ -1,0 +1,482 @@
+[
+  {
+    "userId": "24203568",
+    "managerName": "Arthur",
+    "seasons": [
+      {
+        "year": 2020,
+        "teamId": "4",
+        "teamName": "Cantguardmike",
+        "managerName": "Arthur"
+      },
+      {
+        "year": 2021,
+        "teamId": "4",
+        "teamName": "My BallZach Ertz",
+        "managerName": "Arthur"
+      },
+      {
+        "year": 2022,
+        "teamId": "4",
+        "teamName": "Hasta Laviska",
+        "managerName": "Arthur"
+      },
+      {
+        "year": 2023,
+        "teamId": "4",
+        "teamName": "Real Slim Brady",
+        "managerName": "Arthur"
+      },
+      {
+        "year": 2024,
+        "teamId": "4",
+        "teamName": "Real Slim Brady",
+        "managerName": "Arthur"
+      },
+      {
+        "year": 2025,
+        "teamId": "4",
+        "teamName": "StepBurrow",
+        "managerName": "Arthur"
+      }
+    ]
+  },
+  {
+    "userId": "15140932",
+    "managerName": "Ben",
+    "seasons": [
+      {
+        "year": 2021,
+        "teamId": "10",
+        "teamName": "Garropolypse Now",
+        "managerName": "Ben"
+      },
+      {
+        "year": 2022,
+        "teamId": "10",
+        "teamName": "Garropolypse Now",
+        "managerName": "Ben"
+      },
+      {
+        "year": 2023,
+        "teamId": "10",
+        "teamName": "BryceSpice",
+        "managerName": "Ben"
+      },
+      {
+        "year": 2024,
+        "teamId": "10",
+        "teamName": "BryceSpice",
+        "managerName": "Ben"
+      },
+      {
+        "year": 2025,
+        "teamId": "10",
+        "teamName": "BryceSpice",
+        "managerName": "Ben"
+      }
+    ]
+  },
+  {
+    "userId": "24396935",
+    "managerName": "Dan",
+    "seasons": [
+      {
+        "year": 2020,
+        "teamId": "8",
+        "teamName": "Shanahanigans",
+        "managerName": "Dan"
+      },
+      {
+        "year": 2021,
+        "teamId": "8",
+        "teamName": "Shanahanigans",
+        "managerName": "Dan"
+      },
+      {
+        "year": 2022,
+        "teamId": "8",
+        "teamName": "50 shades of Trey",
+        "managerName": "Dan"
+      },
+      {
+        "year": 2023,
+        "teamId": "8",
+        "teamName": "Livin La Vida Bosa",
+        "managerName": "Dan"
+      },
+      {
+        "year": 2024,
+        "teamId": "8",
+        "teamName": "Livin La Vida Bosa",
+        "managerName": "Dan"
+      },
+      {
+        "year": 2025,
+        "teamId": "8",
+        "teamName": "Livin La Vida Bosa",
+        "managerName": "Dan"
+      }
+    ]
+  },
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "seasons": [
+      {
+        "year": 2020,
+        "teamId": "5",
+        "teamName": "AndyReid's Stache",
+        "managerName": "Datta"
+      },
+      {
+        "year": 2021,
+        "teamId": "5",
+        "teamName": "AndyReid's Stache",
+        "managerName": "Datta"
+      },
+      {
+        "year": 2022,
+        "teamId": "5",
+        "teamName": "My Dick is Hardman",
+        "managerName": "Datta"
+      },
+      {
+        "year": 2023,
+        "teamId": "5",
+        "teamName": "My Dick is Hardman",
+        "managerName": "Datta"
+      },
+      {
+        "year": 2024,
+        "teamId": "5",
+        "teamName": "My Dick is Hardman",
+        "managerName": "Datta"
+      },
+      {
+        "year": 2025,
+        "teamId": "5",
+        "teamName": "My Dick is Hardman",
+        "managerName": "Datta"
+      }
+    ]
+  },
+  {
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "seasons": [
+      {
+        "year": 2020,
+        "teamId": "6",
+        "teamName": "Alvin and the Chipmunks",
+        "managerName": "Elvis"
+      },
+      {
+        "year": 2021,
+        "teamId": "6",
+        "teamName": "Swiss family Robinson",
+        "managerName": "Elvis"
+      },
+      {
+        "year": 2022,
+        "teamId": "6",
+        "teamName": "Swiss family Robinson",
+        "managerName": "Elvis"
+      },
+      {
+        "year": 2023,
+        "teamId": "6",
+        "teamName": "Swiss family Robinson",
+        "managerName": "Elvis"
+      },
+      {
+        "year": 2024,
+        "teamId": "6",
+        "teamName": "Rice Rice Baby",
+        "managerName": "Elvis"
+      },
+      {
+        "year": 2025,
+        "teamId": "6",
+        "teamName": "Rice Rice Baby",
+        "managerName": "Elvis"
+      }
+    ]
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "seasons": [
+      {
+        "year": 2020,
+        "teamId": "2",
+        "teamName": "MVS4MVP",
+        "managerName": "Farhaan"
+      },
+      {
+        "year": 2021,
+        "teamId": "2",
+        "teamName": "Corda-real-deal Patterson",
+        "managerName": "Farhaan"
+      },
+      {
+        "year": 2022,
+        "teamId": "2",
+        "teamName": "Corda-real-deal Patterson",
+        "managerName": "Farhaan"
+      },
+      {
+        "year": 2023,
+        "teamId": "2",
+        "teamName": "Corda-real-deal Patterson",
+        "managerName": "Farhaan"
+      },
+      {
+        "year": 2024,
+        "teamId": "2",
+        "teamName": "Corda-real-deal Patterson",
+        "managerName": "Farhaan"
+      },
+      {
+        "year": 2025,
+        "teamId": "2",
+        "teamName": "Corda-real-deal Patterson",
+        "managerName": "Farhaan"
+      }
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "seasons": [
+      {
+        "year": 2020,
+        "teamId": "7",
+        "teamName": "Reverse Cowgirls",
+        "managerName": "Iain"
+      },
+      {
+        "year": 2021,
+        "teamId": "7",
+        "teamName": "Reverse Cowgirls",
+        "managerName": "Iain"
+      },
+      {
+        "year": 2022,
+        "teamId": "7",
+        "teamName": "Reverse Cowgirls",
+        "managerName": "Iain"
+      },
+      {
+        "year": 2023,
+        "teamId": "7",
+        "teamName": "Reverse Cowgirls",
+        "managerName": "Iain"
+      },
+      {
+        "year": 2024,
+        "teamId": "7",
+        "teamName": "Reverse Cowgirls",
+        "managerName": "Iain"
+      },
+      {
+        "year": 2025,
+        "teamId": "7",
+        "teamName": "Reverse Cowgirls",
+        "managerName": "Iain"
+      }
+    ]
+  },
+  {
+    "userId": "32354078",
+    "managerName": "Karvin",
+    "seasons": [
+      {
+        "year": 2023,
+        "teamId": "11",
+        "teamName": "DannyDimes",
+        "managerName": "Karvin"
+      },
+      {
+        "year": 2024,
+        "teamId": "11",
+        "teamName": "DannyDimes",
+        "managerName": "Karvin"
+      },
+      {
+        "year": 2025,
+        "teamId": "11",
+        "teamName": "DannyDimes",
+        "managerName": "Karvin"
+      }
+    ]
+  },
+  {
+    "userId": "21949043",
+    "managerName": "Mack",
+    "seasons": [
+      {
+        "year": 2022,
+        "teamId": "12",
+        "teamName": "Hitchens Kitchens",
+        "managerName": "Mack"
+      },
+      {
+        "year": 2023,
+        "teamId": "12",
+        "teamName": "Hitchens Kitchens",
+        "managerName": "Mack"
+      },
+      {
+        "year": 2024,
+        "teamId": "12",
+        "teamName": "Hitchens Kitchens",
+        "managerName": "Mack"
+      }
+    ]
+  },
+  {
+    "userId": "24396605",
+    "managerName": "Max",
+    "seasons": [
+      {
+        "year": 2020,
+        "teamId": "3",
+        "teamName": "2Gurleys1Kupp",
+        "managerName": "Max"
+      },
+      {
+        "year": 2021,
+        "teamId": "3",
+        "teamName": "TyreeksDaycare",
+        "managerName": "Max"
+      },
+      {
+        "year": 2022,
+        "teamId": "3",
+        "teamName": "TyreeksDaycare",
+        "managerName": "Max"
+      },
+      {
+        "year": 2023,
+        "teamId": "3",
+        "teamName": "TyreeksDaycare",
+        "managerName": "Max"
+      },
+      {
+        "year": 2024,
+        "teamId": "3",
+        "teamName": "TyreeksDaycare",
+        "managerName": "Max"
+      },
+      {
+        "year": 2025,
+        "teamId": "3",
+        "teamName": "TyreeksDaycare",
+        "managerName": "Max"
+      }
+    ]
+  },
+  {
+    "userId": "29715489",
+    "managerName": "Pavi",
+    "seasons": [
+      {
+        "year": 2022,
+        "teamId": "11",
+        "teamName": "Darren Waller's Rehab",
+        "managerName": "Pavi"
+      }
+    ]
+  },
+  {
+    "userId": "35069105",
+    "managerName": "Rohan",
+    "seasons": [
+      {
+        "year": 2025,
+        "teamId": "12",
+        "teamName": "Bonnie Blue 42",
+        "managerName": "Rohan"
+      }
+    ]
+  },
+  {
+    "userId": "24385872",
+    "managerName": "Shash",
+    "seasons": [
+      {
+        "year": 2020,
+        "teamId": "1",
+        "teamName": "Digestive Trubiscuit",
+        "managerName": "Shash"
+      },
+      {
+        "year": 2021,
+        "teamId": "1",
+        "teamName": "Kyler The Creator",
+        "managerName": "Shash"
+      },
+      {
+        "year": 2022,
+        "teamId": "1",
+        "teamName": "Kyler The Creator",
+        "managerName": "Shash"
+      },
+      {
+        "year": 2023,
+        "teamId": "1",
+        "teamName": "Josh Downs Syndrome",
+        "managerName": "Shash"
+      },
+      {
+        "year": 2024,
+        "teamId": "1",
+        "teamName": "Josh Downs Syndrome",
+        "managerName": "Shash"
+      },
+      {
+        "year": 2025,
+        "teamId": "1",
+        "teamName": "Josh Downs Syndrome",
+        "managerName": "Shash"
+      }
+    ]
+  },
+  {
+    "userId": "26081190",
+    "managerName": "Varun",
+    "seasons": [
+      {
+        "year": 2021,
+        "teamId": "9",
+        "teamName": "vxr241",
+        "managerName": "Varun"
+      },
+      {
+        "year": 2022,
+        "teamId": "9",
+        "teamName": "vxr241",
+        "managerName": "Varun"
+      },
+      {
+        "year": 2023,
+        "teamId": "9",
+        "teamName": "vxr241",
+        "managerName": "Varun"
+      },
+      {
+        "year": 2024,
+        "teamId": "9",
+        "teamName": "vxr241",
+        "managerName": "Varun"
+      },
+      {
+        "year": 2025,
+        "teamId": "9",
+        "teamName": "vxr241",
+        "managerName": "Varun"
+      }
+    ]
+  }
+]

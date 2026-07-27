@@ -1,0 +1,2034 @@
+[
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-07T10:50:00",
+    "transactionWeek": 9,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2560711",
+        "playerName": "Chase Edmonds"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2560770",
+        "playerName": "Ronald Jones"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-10T02:26:00",
+    "transactionWeek": 10,
+    "ownerUserId": "21397394",
+    "assets": [
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2543715",
+        "playerName": "Jerick McKinnon"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2543495",
+        "playerName": "Davante Adams"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2557997",
+        "playerName": "Christian McCaffrey"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2558116",
+        "playerName": "Aaron Jones"
+      },
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2560809",
+        "playerName": "Sony Michel"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-10T04:10:00",
+    "transactionWeek": 10,
+    "ownerUserId": "21397394",
+    "assets": [
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2508061",
+        "playerName": "Antonio Brown"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2540165",
+        "playerName": "DeAndre Hopkins"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2552608",
+        "playerName": "Stefon Diggs"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2556075",
+        "playerName": "Derrick Henry"
+      },
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "100017",
+        "playerName": "Los Angeles Rams"
+      },
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2557848",
+        "playerName": "Corey Davis"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-10T09:00:00",
+    "transactionWeek": 10,
+    "ownerUserId": "24396605",
+    "assets": [
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2565144",
+        "playerName": "DeeJay Dallas"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "100002",
+        "playerName": "Baltimore Ravens"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2560955",
+        "playerName": "Josh Allen"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2564556",
+        "playerName": "Justin Jefferson"
+      },
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "100032",
+        "playerName": "Washington Commanders"
+      },
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2559270",
+        "playerName": "Robert Tonyan"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-10T09:11:00",
+    "transactionWeek": 10,
+    "ownerUserId": "24139678",
+    "assets": [
+      {
+        "fromUserId": "24396653",
+        "fromManagerName": "Elvis",
+        "toUserId": "24139678",
+        "toManagerName": "Iain",
+        "playerId": "2564223",
+        "playerName": "James Robinson"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "24396653",
+        "toManagerName": "Elvis",
+        "playerId": "2557991",
+        "playerName": "Dalvin Cook"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-11T04:55:00",
+    "transactionWeek": 10,
+    "ownerUserId": "24396653",
+    "assets": [
+      {
+        "fromUserId": "24396935",
+        "fromManagerName": "Dan",
+        "toUserId": "24396653",
+        "toManagerName": "Elvis",
+        "playerId": "2506363",
+        "playerName": "Aaron Rodgers"
+      },
+      {
+        "fromUserId": "24396653",
+        "fromManagerName": "Elvis",
+        "toUserId": "24396935",
+        "toManagerName": "Dan",
+        "playerId": "2495455",
+        "playerName": "Cam Newton"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-14T04:14:00",
+    "transactionWeek": 10,
+    "ownerUserId": "24396605",
+    "assets": [
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2564556",
+        "playerName": "Justin Jefferson"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2535698",
+        "playerName": "Cole Beasley"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2565144",
+        "playerName": "DeeJay Dallas"
+      },
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2552409",
+        "playerName": "DeVante Parker"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-15T03:21:00",
+    "transactionWeek": 10,
+    "ownerUserId": "24396605",
+    "assets": [
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2565144",
+        "playerName": "DeeJay Dallas"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2561021",
+        "playerName": "Nick Chubb"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-17T01:14:00",
+    "transactionWeek": 11,
+    "ownerUserId": "24396653",
+    "assets": [
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "24396653",
+        "toManagerName": "Elvis",
+        "playerId": "2564223",
+        "playerName": "James Robinson"
+      },
+      {
+        "fromUserId": "24396653",
+        "fromManagerName": "Elvis",
+        "toUserId": "24139678",
+        "toManagerName": "Iain",
+        "playerId": "2557991",
+        "playerName": "Dalvin Cook"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-17T02:28:00",
+    "transactionWeek": 11,
+    "ownerUserId": "21397394",
+    "assets": [
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "100019",
+        "playerName": "Miami Dolphins"
+      },
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2540165",
+        "playerName": "DeAndre Hopkins"
+      },
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2552608",
+        "playerName": "Stefon Diggs"
+      },
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2556075",
+        "playerName": "Derrick Henry"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "100014",
+        "playerName": "Indianapolis Colts"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2508061",
+        "playerName": "Antonio Brown"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2560770",
+        "playerName": "Ronald Jones"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-17T06:51:00",
+    "transactionWeek": 11,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2540258",
+        "playerName": "Travis Kelce"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2560883",
+        "playerName": "Unknown player 2560883"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2564970",
+        "playerName": "Chase Claypool"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2565045",
+        "playerName": "Justin Herbert"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-17T08:35:00",
+    "transactionWeek": 11,
+    "ownerUserId": "24396605",
+    "assets": [
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "100002",
+        "playerName": "Baltimore Ravens"
+      },
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2560955",
+        "playerName": "Josh Allen"
+      },
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2561021",
+        "playerName": "Nick Chubb"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2564271",
+        "playerName": "Clyde Edwards-Helaire"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2565144",
+        "playerName": "DeeJay Dallas"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-17T11:28:00",
+    "transactionWeek": 11,
+    "ownerUserId": "24203568",
+    "assets": [
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2543495",
+        "playerName": "Davante Adams"
+      },
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2557997",
+        "playerName": "Christian McCaffrey"
+      },
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2558116",
+        "playerName": "Aaron Jones"
+      },
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2560770",
+        "playerName": "Ronald Jones"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2543715",
+        "playerName": "Jerick McKinnon"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2560711",
+        "playerName": "Chase Edmonds"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-19T13:01:00",
+    "transactionWeek": 11,
+    "ownerUserId": "24139678",
+    "assets": [
+      {
+        "fromUserId": "24396645",
+        "fromManagerName": "Datta",
+        "toUserId": "24139678",
+        "toManagerName": "Iain",
+        "playerId": "2558125",
+        "playerName": "Patrick Mahomes"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "24396645",
+        "toManagerName": "Datta",
+        "playerId": "2543499",
+        "playerName": "Derek Carr"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "24396645",
+        "toManagerName": "Datta",
+        "playerId": "2552487",
+        "playerName": "Amari Cooper"
+      },
+      {
+        "fromUserId": "24396645",
+        "fromManagerName": "Datta",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2562580",
+        "playerName": "Mecole Hardman"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-24T08:32:00",
+    "transactionWeek": 12,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2540258",
+        "playerName": "Travis Kelce"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2563596",
+        "playerName": "Tyler Bass"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2559205",
+        "playerName": "Younghoe Koo"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2564970",
+        "playerName": "Chase Claypool"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2565045",
+        "playerName": "Justin Herbert"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2552033",
+        "playerName": "Jameis Winston"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-25T03:25:00",
+    "transactionWeek": 12,
+    "ownerUserId": "21397394",
+    "assets": [
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2553728",
+        "playerName": "Raheem Mostert"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2560968",
+        "playerName": "Saquon Barkley"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-25T03:50:00",
+    "transactionWeek": 12,
+    "ownerUserId": "24396605",
+    "assets": [
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2540154",
+        "playerName": "Keenan Allen"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2540156",
+        "playerName": "Giovani Bernard"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2560854",
+        "playerName": "Calvin Ridley"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-11-29T08:32:00",
+    "transactionWeek": 12,
+    "ownerUserId": "24396605",
+    "assets": [
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2557978",
+        "playerName": "James Conner"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2557917",
+        "playerName": "Kareem Hunt"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-12-06T06:28:00",
+    "transactionWeek": 13,
+    "ownerUserId": "24396605",
+    "assets": [
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2540156",
+        "playerName": "Giovani Bernard"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "100019",
+        "playerName": "Miami Dolphins"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "transactionDate": "2020-12-15T12:35:00",
+    "transactionWeek": 15,
+    "ownerUserId": "24396653",
+    "assets": [
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "24396653",
+        "toManagerName": "Elvis",
+        "playerId": "2561153",
+        "playerName": "Jason Sanders"
+      },
+      {
+        "fromUserId": "24396653",
+        "fromManagerName": "Elvis",
+        "toUserId": "24139678",
+        "toManagerName": "Iain",
+        "playerId": "2556601",
+        "playerName": "Wil Lutz"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-07-14T06:17:00",
+    "transactionWeek": 1,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2564832",
+        "playerName": "Jalen Hurts"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2532820",
+        "playerName": "Kirk Cousins"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-08-20T13:13:00",
+    "transactionWeek": 1,
+    "ownerUserId": "26081190",
+    "assets": [
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "26081190",
+        "toManagerName": "Varun",
+        "playerId": "2562502",
+        "playerName": "David Montgomery"
+      },
+      {
+        "fromUserId": "26081190",
+        "fromManagerName": "Varun",
+        "toUserId": "24139678",
+        "toManagerName": "Iain",
+        "playerId": "2555224",
+        "playerName": "Ezekiel Elliott"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-09-16T13:12:00",
+    "transactionWeek": 2,
+    "ownerUserId": "15140932",
+    "assets": [
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2560888",
+        "playerName": "Courtland Sutton"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2535698",
+        "playerName": "Cole Beasley"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-09-17T07:36:00",
+    "transactionWeek": 2,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "26081190",
+        "fromManagerName": "Varun",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2540169",
+        "playerName": "Robert Woods"
+      },
+      {
+        "fromUserId": "26081190",
+        "fromManagerName": "Varun",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2564319",
+        "playerName": "Cam Akers"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "26081190",
+        "toManagerName": "Varun",
+        "playerId": "2555346",
+        "playerName": "Will Fuller"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "26081190",
+        "toManagerName": "Varun",
+        "playerId": "2566538",
+        "playerName": "Elijah Mitchell"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-09-17T09:25:00",
+    "transactionWeek": 2,
+    "ownerUserId": "21397394",
+    "assets": [
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2557898",
+        "playerName": "Cooper Kupp"
+      },
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24139678",
+        "toManagerName": "Iain",
+        "playerId": "2495454",
+        "playerName": "Julio Jones"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-09-21T01:30:00",
+    "transactionWeek": 3,
+    "ownerUserId": "24396605",
+    "assets": [
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2535698",
+        "playerName": "Cole Beasley"
+      },
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2555295",
+        "playerName": "Sterling Shepard"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-09-21T02:22:00",
+    "transactionWeek": 3,
+    "ownerUserId": "24139678",
+    "assets": [
+      {
+        "fromUserId": "24396645",
+        "fromManagerName": "Datta",
+        "toUserId": "24139678",
+        "toManagerName": "Iain",
+        "playerId": "2504211",
+        "playerName": "Tom Brady"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "24396645",
+        "toManagerName": "Datta",
+        "playerId": "2553439",
+        "playerName": "Mike Davis"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "24396645",
+        "toManagerName": "Datta",
+        "playerId": "2558204",
+        "playerName": "Jamaal Williams"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "24396645",
+        "toManagerName": "Datta",
+        "playerId": "2562238",
+        "playerName": "A.J. Brown"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-09-21T06:56:00",
+    "transactionWeek": 3,
+    "ownerUserId": "24139678",
+    "assets": [
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24139678",
+        "toManagerName": "Iain",
+        "playerId": "2558116",
+        "playerName": "Aaron Jones"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24139678",
+        "toManagerName": "Iain",
+        "playerId": "2560854",
+        "playerName": "Calvin Ridley"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2495454",
+        "playerName": "Julio Jones"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2555224",
+        "playerName": "Ezekiel Elliott"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2560757",
+        "playerName": "Lamar Jackson"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2566391",
+        "playerName": "Zach Wilson"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-09-22T01:08:00",
+    "transactionWeek": 3,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2566157",
+        "playerName": "Travis Etienne"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2564319",
+        "playerName": "Cam Akers"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-09-23T02:25:00",
+    "transactionWeek": 3,
+    "ownerUserId": "24203568",
+    "assets": [
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2543468",
+        "playerName": "Mike Evans"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2560995",
+        "playerName": "Dallas Goedert"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-10-01T06:30:00",
+    "transactionWeek": 4,
+    "ownerUserId": "24203568",
+    "assets": [
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2560711",
+        "playerName": "Chase Edmonds"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2566292",
+        "playerName": "Jaylen Waddle"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-10-06T15:29:00",
+    "transactionWeek": 5,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2563596",
+        "playerName": "Tyler Bass"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2565953",
+        "playerName": "Evan McPherson"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-10-07T05:30:00",
+    "transactionWeek": 5,
+    "ownerUserId": "24203568",
+    "assets": [
+      {
+        "fromUserId": "24396645",
+        "fromManagerName": "Datta",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "497240",
+        "playerName": "Rob Gronkowski"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "24396645",
+        "toManagerName": "Datta",
+        "playerId": "100009",
+        "playerName": "Denver Broncos"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "24396645",
+        "toManagerName": "Datta",
+        "playerId": "497322",
+        "playerName": "Emmanuel Sanders"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "24396645",
+        "toManagerName": "Datta",
+        "playerId": "2556462",
+        "playerName": "Robby Anderson"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "24396645",
+        "toManagerName": "Datta",
+        "playerId": "2560866",
+        "playerName": "Dalton Schultz"
+      },
+      {
+        "fromUserId": "24396645",
+        "fromManagerName": "Datta",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "71265",
+        "playerName": "Jared Cook"
+      },
+      {
+        "fromUserId": "24396645",
+        "fromManagerName": "Datta",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2558245",
+        "playerName": "Harrison Butker"
+      },
+      {
+        "fromUserId": "24396645",
+        "fromManagerName": "Datta",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2560994",
+        "playerName": "Mike Gesicki"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-10-28T08:46:00",
+    "transactionWeek": 8,
+    "ownerUserId": "15140932",
+    "assets": [
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2540169",
+        "playerName": "Robert Woods"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2565276",
+        "playerName": "Antonio Gibson"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2566049",
+        "playerName": "Javonte Williams"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2555224",
+        "playerName": "Ezekiel Elliott"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2564319",
+        "playerName": "Cam Akers"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2565914",
+        "playerName": "Tommy Tremble"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-10-31T10:30:00",
+    "transactionWeek": 8,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2566049",
+        "playerName": "Javonte Williams"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2555230",
+        "playerName": "Kenyan Drake"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-11-12T06:53:00",
+    "transactionWeek": 10,
+    "ownerUserId": "24396605",
+    "assets": [
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2557848",
+        "playerName": "Corey Davis"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2562682",
+        "playerName": "Alexander Mattison"
+      },
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2562699",
+        "playerName": "Tony Pollard"
+      },
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2565093",
+        "playerName": "Brandon Aiyuk"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "transactionDate": "2021-11-14T14:16:00",
+    "transactionWeek": 0,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2556075",
+        "playerName": "Derrick Henry"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2558019",
+        "playerName": "Alvin Kamara"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "transactionDate": "2022-09-15T00:00:00",
+    "transactionWeek": 2,
+    "ownerUserId": "15140932",
+    "assets": [
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2557976",
+        "playerName": "Joe Mixon"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2543499",
+        "playerName": "Derek Carr"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2559169",
+        "playerName": "Austin Ekeler"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "100014",
+        "playerName": "Indianapolis Colts"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "transactionDate": "2022-09-15T07:47:00",
+    "transactionWeek": 2,
+    "ownerUserId": "24139678",
+    "assets": [
+      {
+        "fromUserId": "24396645",
+        "fromManagerName": "Datta",
+        "toUserId": "24139678",
+        "toManagerName": "Iain",
+        "playerId": "2560968",
+        "playerName": "Saquon Barkley"
+      },
+      {
+        "fromUserId": "24396645",
+        "fromManagerName": "Datta",
+        "toUserId": "24139678",
+        "toManagerName": "Iain",
+        "playerId": "2566382",
+        "playerName": "Michael Carter"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "24396645",
+        "toManagerName": "Datta",
+        "playerId": "2543498",
+        "playerName": "Brandin Cooks"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "24396645",
+        "toManagerName": "Datta",
+        "playerId": "2558019",
+        "playerName": "Alvin Kamara"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "transactionDate": "2022-09-18T03:36:00",
+    "transactionWeek": 2,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "21949043",
+        "fromManagerName": "Mack",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2560957",
+        "playerName": "Mark Andrews"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "21949043",
+        "toManagerName": "Mack",
+        "playerId": "2560742",
+        "playerName": "Nyheim Hines"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "21949043",
+        "toManagerName": "Mack",
+        "playerId": "2562674",
+        "playerName": "Diontae Johnson"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "21949043",
+        "toManagerName": "Mack",
+        "playerId": "2563704",
+        "playerName": "Cole Kmet"
+      },
+      {
+        "fromUserId": "21949043",
+        "fromManagerName": "Mack",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2555341",
+        "playerName": "Hunter Henry"
+      },
+      {
+        "fromUserId": "21949043",
+        "fromManagerName": "Mack",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2562492",
+        "playerName": "Jakobi Meyers"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "transactionDate": "2022-09-25T09:21:00",
+    "transactionWeek": 3,
+    "ownerUserId": "24139678",
+    "assets": [
+      {
+        "fromUserId": "26081190",
+        "fromManagerName": "Varun",
+        "toUserId": "24139678",
+        "toManagerName": "Iain",
+        "playerId": "2563731",
+        "playerName": "Tee Higgins"
+      },
+      {
+        "fromUserId": "26081190",
+        "fromManagerName": "Varun",
+        "toUserId": "24139678",
+        "toManagerName": "Iain",
+        "playerId": "2568282",
+        "playerName": "Kenneth Walker III"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "26081190",
+        "toManagerName": "Varun",
+        "playerId": "2543509",
+        "playerName": "Allen Robinson"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "26081190",
+        "toManagerName": "Varun",
+        "playerId": "2562281",
+        "playerName": "Damien Harris"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "transactionDate": "2022-10-21T03:42:00",
+    "transactionWeek": 7,
+    "ownerUserId": "24396605",
+    "assets": [
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2566538",
+        "playerName": "Elijah Mitchell"
+      },
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2532820",
+        "playerName": "Kirk Cousins"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "transactionDate": "2022-11-15T03:54:00",
+    "transactionWeek": 0,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "26081190",
+        "fromManagerName": "Varun",
+        "toUserId": "29715489",
+        "toManagerName": "Pavi",
+        "playerId": "2552608",
+        "playerName": "Stefon Diggs"
+      },
+      {
+        "fromUserId": "29715489",
+        "fromManagerName": "Pavi",
+        "toUserId": "26081190",
+        "toManagerName": "Varun",
+        "playerId": "2562489",
+        "playerName": "Terry McLaurin"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "transactionDate": "2022-11-15T04:17:00",
+    "transactionWeek": 0,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "26081190",
+        "fromManagerName": "Varun",
+        "toUserId": "29715489",
+        "toManagerName": "Pavi",
+        "playerId": "2552608",
+        "playerName": "Stefon Diggs"
+      },
+      {
+        "fromUserId": "29715489",
+        "fromManagerName": "Pavi",
+        "toUserId": "26081190",
+        "toManagerName": "Varun",
+        "playerId": "2562489",
+        "playerName": "Terry McLaurin"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "transactionDate": "2022-11-17T13:21:00",
+    "transactionWeek": 11,
+    "ownerUserId": "24396935",
+    "assets": [
+      {
+        "fromUserId": "24396605",
+        "fromManagerName": "Max",
+        "toUserId": "24396935",
+        "toManagerName": "Dan",
+        "playerId": "2566538",
+        "playerName": "Elijah Mitchell"
+      },
+      {
+        "fromUserId": "24396935",
+        "fromManagerName": "Dan",
+        "toUserId": "24396605",
+        "toManagerName": "Max",
+        "playerId": "2563986",
+        "playerName": "AJ Dillon"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "transactionDate": "2022-11-23T13:32:00",
+    "transactionWeek": 12,
+    "ownerUserId": "15140932",
+    "assets": [
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2558204",
+        "playerName": "Jamaal Williams"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2564136",
+        "playerName": "Michael Pittman"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2562379",
+        "playerName": "Marquise Brown"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2562699",
+        "playerName": "Tony Pollard"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "transactionDate": "2022-12-14T02:45:00",
+    "transactionWeek": 15,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "21949043",
+        "fromManagerName": "Mack",
+        "toUserId": "24396935",
+        "toManagerName": "Dan",
+        "playerId": "2563548",
+        "playerName": "J.K. Dobbins"
+      },
+      {
+        "fromUserId": "24396935",
+        "fromManagerName": "Dan",
+        "toUserId": "21949043",
+        "toManagerName": "Mack",
+        "playerId": "2553728",
+        "playerName": "Raheem Mostert"
+      },
+      {
+        "fromUserId": "24396935",
+        "fromManagerName": "Dan",
+        "toUserId": "21949043",
+        "toManagerName": "Mack",
+        "playerId": "2558138",
+        "playerName": "Samaje Perine"
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "transactionDate": "2023-11-02T14:01:00",
+    "transactionWeek": 9,
+    "ownerUserId": "24396935",
+    "assets": [
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396935",
+        "toManagerName": "Dan",
+        "playerId": "2568030",
+        "playerName": "Breece Hall"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24396935",
+        "toManagerName": "Dan",
+        "playerId": "2569573",
+        "playerName": "Zay Flowers"
+      },
+      {
+        "fromUserId": "24396935",
+        "fromManagerName": "Dan",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2568048",
+        "playerName": "Garrett Wilson"
+      },
+      {
+        "fromUserId": "24396935",
+        "fromManagerName": "Dan",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2569558",
+        "playerName": "Bijan Robinson"
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "transactionDate": "2023-11-08T12:21:00",
+    "transactionWeek": 10,
+    "ownerUserId": "24396935",
+    "assets": [
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24396935",
+        "toManagerName": "Dan",
+        "playerId": "2540165",
+        "playerName": "DeAndre Hopkins"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24396935",
+        "toManagerName": "Dan",
+        "playerId": "2562685",
+        "playerName": "DK Metcalf"
+      },
+      {
+        "fromUserId": "24396935",
+        "fromManagerName": "Dan",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2552487",
+        "playerName": "Amari Cooper"
+      },
+      {
+        "fromUserId": "24396935",
+        "fromManagerName": "Dan",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2567808",
+        "playerName": "Isiah Pacheco"
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "transactionDate": "2024-09-09T04:50:00",
+    "transactionWeek": 1,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "24385872",
+        "toManagerName": "Shash",
+        "playerId": "2571883",
+        "playerName": "Jonathon Brooks"
+      },
+      {
+        "fromUserId": "24385872",
+        "fromManagerName": "Shash",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2569795",
+        "playerName": "Tyjae Spears"
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "transactionDate": "2024-09-10T00:49:00",
+    "transactionWeek": 2,
+    "ownerUserId": "24203568",
+    "assets": [
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2571913",
+        "playerName": "Caleb Williams"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2555260",
+        "playerName": "Dak Prescott"
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "transactionDate": "2024-11-19T07:34:00",
+    "transactionWeek": 12,
+    "ownerUserId": "24396935",
+    "assets": [
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24396935",
+        "toManagerName": "Dan",
+        "playerId": "2543468",
+        "playerName": "Mike Evans"
+      },
+      {
+        "fromUserId": "24396935",
+        "fromManagerName": "Dan",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2568282",
+        "playerName": "Kenneth Walker III"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "transactionDate": "2025-09-13T09:29:00",
+    "transactionWeek": 2,
+    "ownerUserId": "24139678",
+    "assets": [
+      {
+        "fromUserId": "26081190",
+        "fromManagerName": "Varun",
+        "toUserId": "24139678",
+        "toManagerName": "Iain",
+        "playerId": "2566157",
+        "playerName": "Travis Etienne"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "26081190",
+        "toManagerName": "Varun",
+        "playerId": "2566292",
+        "playerName": "Jaylen Waddle"
+      },
+      {
+        "fromUserId": "24139678",
+        "fromManagerName": "Iain",
+        "toUserId": "26081190",
+        "toManagerName": "Varun",
+        "playerId": "2569110",
+        "playerName": "Rashid Shaheed"
+      },
+      {
+        "fromUserId": "26081190",
+        "fromManagerName": "Varun",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2566502",
+        "playerName": "Josh Palmer"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "transactionDate": "2025-09-26T05:09:00",
+    "transactionWeek": 4,
+    "ownerUserId": "24396935",
+    "assets": [
+      {
+        "fromUserId": "32354078",
+        "fromManagerName": "Karvin",
+        "toUserId": "24396935",
+        "toManagerName": "Dan",
+        "playerId": "2567565",
+        "playerName": "Jameson Williams"
+      },
+      {
+        "fromUserId": "24396935",
+        "fromManagerName": "Dan",
+        "toUserId": "32354078",
+        "toManagerName": "Karvin",
+        "playerId": "2562721",
+        "playerName": "Deebo Samuel Sr."
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "transactionDate": "2025-09-30T16:42:00",
+    "transactionWeek": 0,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "35069105",
+        "toManagerName": "Rohan",
+        "playerId": "2563722",
+        "playerName": "Joe Burrow"
+      },
+      {
+        "fromUserId": "35069105",
+        "fromManagerName": "Rohan",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "79860",
+        "playerName": "Matthew Stafford"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "transactionDate": "2025-10-08T07:48:00",
+    "transactionWeek": 6,
+    "ownerUserId": "24385872",
+    "assets": [
+      {
+        "fromUserId": "21397394",
+        "fromManagerName": "Farhaan",
+        "toUserId": "24203568",
+        "toManagerName": "Arthur",
+        "playerId": "2569558",
+        "playerName": "Bijan Robinson"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2567862",
+        "playerName": "Kyren Williams"
+      },
+      {
+        "fromUserId": "24203568",
+        "fromManagerName": "Arthur",
+        "toUserId": "21397394",
+        "toManagerName": "Farhaan",
+        "playerId": "2570275",
+        "playerName": "Quentin Johnston"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "transactionDate": "2025-10-10T04:08:00",
+    "transactionWeek": 6,
+    "ownerUserId": "32354078",
+    "assets": [
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "32354078",
+        "toManagerName": "Karvin",
+        "playerId": "2572186",
+        "playerName": "Xavier Worthy"
+      },
+      {
+        "fromUserId": "32354078",
+        "fromManagerName": "Karvin",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2562489",
+        "playerName": "Terry McLaurin"
+      },
+      {
+        "fromUserId": "32354078",
+        "fromManagerName": "Karvin",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2571859",
+        "playerName": "Keon Coleman"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "",
+        "toManagerName": "Free Agency",
+        "playerId": "2574014",
+        "playerName": "Colston Loveland"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "transactionDate": "2025-10-18T00:45:00",
+    "transactionWeek": 7,
+    "ownerUserId": "32354078",
+    "assets": [
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "32354078",
+        "toManagerName": "Karvin",
+        "playerId": "2568493",
+        "playerName": "Jaylen Warren"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "32354078",
+        "toManagerName": "Karvin",
+        "playerId": "2572477",
+        "playerName": "Ladd McConkey"
+      },
+      {
+        "fromUserId": "15140932",
+        "fromManagerName": "Ben",
+        "toUserId": "32354078",
+        "toManagerName": "Karvin",
+        "playerId": "2574053",
+        "playerName": "Quinshon Judkins"
+      },
+      {
+        "fromUserId": "32354078",
+        "fromManagerName": "Karvin",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2555295",
+        "playerName": "Sterling Shepard"
+      },
+      {
+        "fromUserId": "32354078",
+        "fromManagerName": "Karvin",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2562721",
+        "playerName": "Deebo Samuel Sr."
+      },
+      {
+        "fromUserId": "32354078",
+        "fromManagerName": "Karvin",
+        "toUserId": "15140932",
+        "toManagerName": "Ben",
+        "playerId": "2565295",
+        "playerName": "Rico Dowdle"
+      }
+    ]
+  }
+]

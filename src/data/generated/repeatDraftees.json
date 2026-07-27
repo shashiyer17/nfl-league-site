@@ -1,0 +1,1035 @@
+[
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "playerId": "2558245",
+    "playerName": "Harrison Butker",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "playerId": "2553728",
+    "playerName": "Raheem Mostert",
+    "years": [
+      2021,
+      2023,
+      2024
+    ]
+  },
+  {
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "playerId": "2555466",
+    "playerName": "Tyler Boyd",
+    "years": [
+      2020,
+      2021,
+      2022
+    ]
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "playerId": "2541785",
+    "playerName": "Adam Thielen",
+    "years": [
+      2020,
+      2021,
+      2022
+    ]
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "playerId": "2558266",
+    "playerName": "George Kittle",
+    "years": [
+      2021,
+      2022,
+      2025
+    ]
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "playerId": "2568159",
+    "playerName": "George Pickens",
+    "years": [
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "playerId": "2563707",
+    "playerName": "Darnell Mooney",
+    "years": [
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "playerId": "2560888",
+    "playerName": "Courtland Sutton",
+    "years": [
+      2020,
+      2021,
+      2025
+    ]
+  },
+  {
+    "userId": "24396605",
+    "managerName": "Max",
+    "playerId": "2562685",
+    "playerName": "DK Metcalf",
+    "years": [
+      2020,
+      2021,
+      2022
+    ]
+  },
+  {
+    "userId": "24396605",
+    "managerName": "Max",
+    "playerId": "2562271",
+    "playerName": "Matt Gay",
+    "years": [
+      2020,
+      2023,
+      2025
+    ]
+  },
+  {
+    "userId": "24396605",
+    "managerName": "Max",
+    "playerId": "2556214",
+    "playerName": "Tyreek Hill",
+    "years": [
+      2021,
+      2022,
+      2025
+    ]
+  },
+  {
+    "userId": "24385872",
+    "managerName": "Shash",
+    "playerId": "2560955",
+    "playerName": "Josh Allen",
+    "years": [
+      2020,
+      2023,
+      2024
+    ]
+  },
+  {
+    "userId": "24203568",
+    "managerName": "Arthur",
+    "playerId": "100005",
+    "playerName": "Chicago Bears",
+    "years": [
+      2020,
+      2025
+    ]
+  },
+  {
+    "userId": "24203568",
+    "managerName": "Arthur",
+    "playerId": "2562502",
+    "playerName": "David Montgomery",
+    "years": [
+      2020,
+      2025
+    ]
+  },
+  {
+    "userId": "24203568",
+    "managerName": "Arthur",
+    "playerId": "2556370",
+    "playerName": "Michael Thomas",
+    "years": [
+      2021,
+      2023
+    ]
+  },
+  {
+    "userId": "24203568",
+    "managerName": "Arthur",
+    "playerId": "2540154",
+    "playerName": "Keenan Allen",
+    "years": [
+      2021,
+      2023
+    ]
+  },
+  {
+    "userId": "24203568",
+    "managerName": "Arthur",
+    "playerId": "2555260",
+    "playerName": "Dak Prescott",
+    "years": [
+      2021,
+      2024
+    ]
+  },
+  {
+    "userId": "24203568",
+    "managerName": "Arthur",
+    "playerId": "2558105",
+    "playerName": "Chris Godwin",
+    "years": [
+      2023,
+      2025
+    ]
+  },
+  {
+    "userId": "15140932",
+    "managerName": "Ben",
+    "playerId": "2558116",
+    "playerName": "Aaron Jones",
+    "years": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "userId": "15140932",
+    "managerName": "Ben",
+    "playerId": "2566073",
+    "playerName": "Amon-Ra St. Brown",
+    "years": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "userId": "15140932",
+    "managerName": "Ben",
+    "playerId": "2562379",
+    "playerName": "Marquise Brown",
+    "years": [
+      2022,
+      2023
+    ]
+  },
+  {
+    "userId": "15140932",
+    "managerName": "Ben",
+    "playerId": "2566442",
+    "playerName": "Pat Freiermuth",
+    "years": [
+      2022,
+      2024
+    ]
+  },
+  {
+    "userId": "15140932",
+    "managerName": "Ben",
+    "playerId": "2567808",
+    "playerName": "Isiah Pacheco",
+    "years": [
+      2022,
+      2024
+    ]
+  },
+  {
+    "userId": "15140932",
+    "managerName": "Ben",
+    "playerId": "2569747",
+    "playerName": "Jahmyr Gibbs",
+    "years": [
+      2023,
+      2025
+    ]
+  },
+  {
+    "userId": "15140932",
+    "managerName": "Ben",
+    "playerId": "2568315",
+    "playerName": "Rachaad White",
+    "years": [
+      2023,
+      2024
+    ]
+  },
+  {
+    "userId": "15140932",
+    "managerName": "Ben",
+    "playerId": "2572186",
+    "playerName": "Xavier Worthy",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "userId": "15140932",
+    "managerName": "Ben",
+    "playerId": "2556521",
+    "playerName": "Ka'imi Fairbairn",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "userId": "15140932",
+    "managerName": "Ben",
+    "playerId": "100010",
+    "playerName": "Detroit Lions",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "userId": "24396935",
+    "managerName": "Dan",
+    "playerId": "2558105",
+    "playerName": "Chris Godwin",
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "userId": "24396935",
+    "managerName": "Dan",
+    "playerId": "2559169",
+    "playerName": "Austin Ekeler",
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "userId": "24396935",
+    "managerName": "Dan",
+    "playerId": "2540158",
+    "playerName": "Zach Ertz",
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "userId": "24396935",
+    "managerName": "Dan",
+    "playerId": "2562721",
+    "playerName": "Deebo Samuel",
+    "years": [
+      2021,
+      2025
+    ]
+  },
+  {
+    "userId": "24396935",
+    "managerName": "Dan",
+    "playerId": "2565093",
+    "playerName": "Brandon Aiyuk",
+    "years": [
+      2022,
+      2023
+    ]
+  },
+  {
+    "userId": "24396935",
+    "managerName": "Dan",
+    "playerId": "2566163",
+    "playerName": "Trevor Lawrence",
+    "years": [
+      2023,
+      2024
+    ]
+  },
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "playerId": "2558125",
+    "playerName": "Patrick Mahomes",
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "playerId": "497240",
+    "playerName": "Rob Gronkowski",
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "playerId": "100029",
+    "playerName": "San Francisco 49ers",
+    "years": [
+      2020,
+      2025
+    ]
+  },
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "playerId": "2557889",
+    "playerName": "Gerald Everett",
+    "years": [
+      2020,
+      2023
+    ]
+  },
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "playerId": "2562580",
+    "playerName": "Mecole Hardman",
+    "years": [
+      2020,
+      2022
+    ]
+  },
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "playerId": "2504211",
+    "playerName": "Tom Brady",
+    "years": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "playerId": "2558052",
+    "playerName": "Kenny Golladay",
+    "years": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "playerId": "2562734",
+    "playerName": "Devin Singletary",
+    "years": [
+      2021,
+      2024
+    ]
+  },
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "playerId": "2543468",
+    "playerName": "Mike Evans",
+    "years": [
+      2023,
+      2025
+    ]
+  },
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "playerId": "2565899",
+    "playerName": "Chuba Hubbard",
+    "years": [
+      2023,
+      2024
+    ]
+  },
+  {
+    "userId": "24396645",
+    "managerName": "Datta",
+    "playerId": "2570942",
+    "playerName": "Jaleel McLaughlin",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "playerId": "2556601",
+    "playerName": "Wil Lutz",
+    "years": [
+      2020,
+      2025
+    ]
+  },
+  {
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "playerId": "2543495",
+    "playerName": "Davante Adams",
+    "years": [
+      2021,
+      2024
+    ]
+  },
+  {
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "playerId": "2564223",
+    "playerName": "James Robinson",
+    "years": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "playerId": "2536340",
+    "playerName": "Justin Tucker",
+    "years": [
+      2021,
+      2023
+    ]
+  },
+  {
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "playerId": "2557997",
+    "playerName": "Christian McCaffrey",
+    "years": [
+      2022,
+      2024
+    ]
+  },
+  {
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "playerId": "2560854",
+    "playerName": "Calvin Ridley",
+    "years": [
+      2023,
+      2024
+    ]
+  },
+  {
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "playerId": "100029",
+    "playerName": "San Francisco 49ers",
+    "years": [
+      2023,
+      2024
+    ]
+  },
+  {
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "playerId": "2552608",
+    "playerName": "Stefon Diggs",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "playerId": "2569921",
+    "playerName": "Rashee Rice",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "playerId": "100021",
+    "playerName": "New England Patriots",
+    "years": [
+      2020,
+      2023
+    ]
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "playerId": "2532820",
+    "playerName": "Kirk Cousins",
+    "years": [
+      2020,
+      2023
+    ]
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "playerId": "2560813",
+    "playerName": "D.J. Moore",
+    "years": [
+      2021,
+      2025
+    ]
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "playerId": "2560907",
+    "playerName": "Marquez Valdes-Scantling",
+    "years": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "playerId": "2566127",
+    "playerName": "Nico Collins",
+    "years": [
+      2022,
+      2024
+    ]
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "playerId": "2563803",
+    "playerName": "Donovan Peoples-Jones",
+    "years": [
+      2022,
+      2023
+    ]
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "playerId": "2557976",
+    "playerName": "Joe Mixon",
+    "years": [
+      2023,
+      2024
+    ]
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "playerId": "2563596",
+    "playerName": "Tyler Bass",
+    "years": [
+      2023,
+      2025
+    ]
+  },
+  {
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "playerId": "2569558",
+    "playerName": "Bijan Robinson",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "playerId": "2560757",
+    "playerName": "Lamar Jackson",
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "playerId": "2552487",
+    "playerName": "Amari Cooper",
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "playerId": "2561021",
+    "playerName": "Nick Chubb",
+    "years": [
+      2020,
+      2024
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "playerId": "100003",
+    "playerName": "Buffalo Bills",
+    "years": [
+      2020,
+      2023
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "playerId": "100031",
+    "playerName": "Tampa Bay Buccaneers",
+    "years": [
+      2020,
+      2022
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "playerId": "2534797",
+    "playerName": "Greg Zuerlein",
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "playerId": "2557986",
+    "playerName": "David Njoku",
+    "years": [
+      2020,
+      2023
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "playerId": "2558019",
+    "playerName": "Alvin Kamara",
+    "years": [
+      2022,
+      2025
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "playerId": "2543498",
+    "playerName": "Brandin Cooks",
+    "years": [
+      2022,
+      2023
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "playerId": "2567328",
+    "playerName": "James Cook",
+    "years": [
+      2022,
+      2025
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "playerId": "2558125",
+    "playerName": "Patrick Mahomes",
+    "years": [
+      2023,
+      2025
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "playerId": "2570074",
+    "playerName": "Jordan Addison",
+    "years": [
+      2023,
+      2024
+    ]
+  },
+  {
+    "userId": "24139678",
+    "managerName": "Iain",
+    "playerId": "100025",
+    "playerName": "Philadelphia Eagles",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "userId": "32354078",
+    "managerName": "Karvin",
+    "playerId": "2562299",
+    "playerName": "Daniel Jones",
+    "years": [
+      2023,
+      2024
+    ]
+  },
+  {
+    "userId": "32354078",
+    "managerName": "Karvin",
+    "playerId": "2557858",
+    "playerName": "Evan Engram",
+    "years": [
+      2023,
+      2025
+    ]
+  },
+  {
+    "userId": "32354078",
+    "managerName": "Karvin",
+    "playerId": "2567250",
+    "playerName": "Drake London",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "userId": "21949043",
+    "managerName": "Mack",
+    "playerId": "2560968",
+    "playerName": "Saquon Barkley",
+    "years": [
+      2023,
+      2024
+    ]
+  },
+  {
+    "userId": "24396605",
+    "managerName": "Max",
+    "playerId": "2558865",
+    "playerName": "Chris Carson",
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "userId": "24396605",
+    "managerName": "Max",
+    "playerId": "2560835",
+    "playerName": "Rashaad Penny",
+    "years": [
+      2020,
+      2022
+    ]
+  },
+  {
+    "userId": "24396605",
+    "managerName": "Max",
+    "playerId": "2564148",
+    "playerName": "Jonathan Taylor",
+    "years": [
+      2021,
+      2024
+    ]
+  },
+  {
+    "userId": "24396605",
+    "managerName": "Max",
+    "playerId": "2562378",
+    "playerName": "T.J. Hockenson",
+    "years": [
+      2021,
+      2025
+    ]
+  },
+  {
+    "userId": "24396605",
+    "managerName": "Max",
+    "playerId": "2539335",
+    "playerName": "Geno Smith",
+    "years": [
+      2021,
+      2023
+    ]
+  },
+  {
+    "userId": "24396605",
+    "managerName": "Max",
+    "playerId": "2568348",
+    "playerName": "Brian Robinson",
+    "years": [
+      2022,
+      2025
+    ]
+  },
+  {
+    "userId": "24396605",
+    "managerName": "Max",
+    "playerId": "2567334",
+    "playerName": "Khalil Shakir",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "userId": "24385872",
+    "managerName": "Shash",
+    "playerId": "2540165",
+    "playerName": "DeAndre Hopkins",
+    "years": [
+      2020,
+      2022
+    ]
+  },
+  {
+    "userId": "24385872",
+    "managerName": "Shash",
+    "playerId": "2556075",
+    "playerName": "Derrick Henry",
+    "years": [
+      2020,
+      2025
+    ]
+  },
+  {
+    "userId": "24385872",
+    "managerName": "Shash",
+    "playerId": "2552608",
+    "playerName": "Stefon Diggs",
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "userId": "24385872",
+    "managerName": "Shash",
+    "playerId": "2563704",
+    "playerName": "Cole Kmet",
+    "years": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "userId": "24385872",
+    "managerName": "Shash",
+    "playerId": "2557978",
+    "playerName": "James Conner",
+    "years": [
+      2022,
+      2024
+    ]
+  },
+  {
+    "userId": "24385872",
+    "managerName": "Shash",
+    "playerId": "2562674",
+    "playerName": "Diontae Johnson",
+    "years": [
+      2022,
+      2023
+    ]
+  },
+  {
+    "userId": "24385872",
+    "managerName": "Shash",
+    "playerId": "2560888",
+    "playerName": "Courtland Sutton",
+    "years": [
+      2022,
+      2023
+    ]
+  },
+  {
+    "userId": "24385872",
+    "managerName": "Shash",
+    "playerId": "2562382",
+    "playerName": "Kyler Murray",
+    "years": [
+      2022,
+      2025
+    ]
+  },
+  {
+    "userId": "26081190",
+    "managerName": "Varun",
+    "playerId": "2506363",
+    "playerName": "Aaron Rodgers",
+    "years": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "userId": "26081190",
+    "managerName": "Varun",
+    "playerId": "2564319",
+    "playerName": "Cam Akers",
+    "years": [
+      2021,
+      2023
+    ]
+  },
+  {
+    "userId": "26081190",
+    "managerName": "Varun",
+    "playerId": "2563965",
+    "playerName": "D'Andre Swift",
+    "years": [
+      2021,
+      2024
+    ]
+  },
+  {
+    "userId": "26081190",
+    "managerName": "Varun",
+    "playerId": "2560993",
+    "playerName": "Daniel Carlson",
+    "years": [
+      2021,
+      2023
+    ]
+  },
+  {
+    "userId": "26081190",
+    "managerName": "Varun",
+    "playerId": "2552430",
+    "playerName": "Tyler Lockett",
+    "years": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "userId": "26081190",
+    "managerName": "Varun",
+    "playerId": "2540258",
+    "playerName": "Travis Kelce",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "userId": "26081190",
+    "managerName": "Varun",
+    "playerId": "2562699",
+    "playerName": "Tony Pollard",
+    "years": [
+      2024,
+      2025
+    ]
+  }
+]

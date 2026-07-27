@@ -1,0 +1,265 @@
+:root {
+  color-scheme: dark;
+
+  --bg: #0e2016;
+  --bg-elevated: #16301f;
+  --bg-elevated-2: #1c3a26;
+  --ink: #f4efe1;
+  --ink-muted: #9bb2a1;
+  --border: #2b4a37;
+  --accent: #d9ab3d;
+  --accent-soft: rgba(217, 171, 61, 0.14);
+  --row-hover: #1a3521;
+
+  --font-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+  --font-sans:
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--border);
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  color: var(--accent);
+  text-decoration-color: var(--accent);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 0 0 0.3em;
+  text-wrap: balance;
+}
+
+h1 {
+  font-size: 2.1rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+}
+
+h3 {
+  font-size: 1.05rem;
+}
+
+.page {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 32px 20px 72px;
+}
+
+.kicker {
+  font-family: var(--font-sans);
+  font-size: 0.74rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+
+.dek {
+  font-family: var(--font-serif);
+  font-style: italic;
+  color: var(--ink-muted);
+  font-size: 1.08rem;
+  line-height: 1.5;
+  max-width: 68ch;
+  margin: 0 0 0.6em;
+}
+
+.card {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 22px 24px;
+  margin-bottom: 24px;
+}
+
+.muted {
+  color: var(--ink-muted);
+}
+
+p.muted {
+  max-width: 70ch;
+  line-height: 1.55;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 9px 10px;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+th {
+  color: var(--ink-muted);
+  font-weight: 600;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+  user-select: none;
+}
+
+th.sortable:hover {
+  color: var(--ink);
+}
+
+tbody tr:hover {
+  background: var(--row-hover);
+}
+
+.num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.badge {
+  display: inline-block;
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 2px 9px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.badge-champ {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.badge-playoff {
+  background: rgba(155, 178, 161, 0.14);
+  color: var(--ink-muted);
+}
+
+.badge-runnerup {
+  background: transparent;
+  color: var(--ink-muted);
+  border: 1px solid var(--border);
+}
+
+.table-scroll {
+  overflow-x: auto;
+}
+
+/* Pull-quote style stat highlight (used by RecordsGrid) */
+.pullquote {
+  border-left: 3px solid var(--accent);
+  padding-left: 16px;
+}
+
+.pullquote .pq-value {
+  font-family: var(--font-serif);
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.pullquote .pq-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-muted);
+  margin-bottom: 2px;
+}
+
+.pullquote .pq-detail {
+  font-size: 0.86rem;
+  color: var(--ink-muted);
+  margin-top: 2px;
+}
+
+/* KPI-style stat tiles (career summaries, dashboards) */
+.stat-tiles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+.stat-tile {
+  background: var(--bg-elevated-2);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 12px 16px;
+  min-width: 128px;
+}
+
+.stat-tile .st-value {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  font-variant-numeric: tabular-nums;
+}
+
+.stat-tile .st-value.accent {
+  color: var(--accent);
+}
+
+.stat-tile .st-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-muted);
+  margin-top: 2px;
+}
+
+/* Inline win% bar used in All-Time Standings */
+.win-bar-track {
+  display: inline-block;
+  width: 60px;
+  height: 6px;
+  background: rgba(155, 178, 161, 0.22);
+  border-radius: 3px;
+  overflow: hidden;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+.win-bar-fill {
+  height: 100%;
+  background: var(--accent);
+  border-radius: 3px;
+}

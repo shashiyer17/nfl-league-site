@@ -1,0 +1,596 @@
+[
+  {
+    "year": 2020,
+    "teamId": "8",
+    "userId": "24396935",
+    "managerName": "Dan",
+    "actualPoints": 1626.6599999999996,
+    "optimalPoints": 2170.7,
+    "wastedPoints": 544.0400000000002
+  },
+  {
+    "year": 2021,
+    "teamId": "8",
+    "userId": "24396935",
+    "managerName": "Dan",
+    "actualPoints": 2470.0600000000004,
+    "optimalPoints": 2988.2799999999997,
+    "wastedPoints": 518.2199999999993
+  },
+  {
+    "year": 2021,
+    "teamId": "1",
+    "userId": "24385872",
+    "managerName": "Shash",
+    "actualPoints": 2394.05,
+    "optimalPoints": 2889.94,
+    "wastedPoints": 495.8899999999999
+  },
+  {
+    "year": 2020,
+    "teamId": "3",
+    "userId": "24396605",
+    "managerName": "Max",
+    "actualPoints": 2034.58,
+    "optimalPoints": 2516.7400000000007,
+    "wastedPoints": 482.16000000000076
+  },
+  {
+    "year": 2022,
+    "teamId": "11",
+    "userId": "29715489",
+    "managerName": "Pavi",
+    "actualPoints": 1975.0800000000002,
+    "optimalPoints": 2405.58,
+    "wastedPoints": 430.4999999999998
+  },
+  {
+    "year": 2020,
+    "teamId": "6",
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "actualPoints": 2204.78,
+    "optimalPoints": 2625.98,
+    "wastedPoints": 421.1999999999998
+  },
+  {
+    "year": 2024,
+    "teamId": "5",
+    "userId": "24396645",
+    "managerName": "Datta",
+    "actualPoints": 1937.32,
+    "optimalPoints": 2347.4000000000005,
+    "wastedPoints": 410.0800000000006
+  },
+  {
+    "year": 2025,
+    "teamId": "4",
+    "userId": "24203568",
+    "managerName": "Arthur",
+    "actualPoints": 1927.4000000000005,
+    "optimalPoints": 2337.06,
+    "wastedPoints": 409.6599999999994
+  },
+  {
+    "year": 2025,
+    "teamId": "5",
+    "userId": "24396645",
+    "managerName": "Datta",
+    "actualPoints": 1712.2800000000002,
+    "optimalPoints": 2112.16,
+    "wastedPoints": 399.87999999999965
+  },
+  {
+    "year": 2022,
+    "teamId": "9",
+    "userId": "26081190",
+    "managerName": "Varun",
+    "actualPoints": 1503.5,
+    "optimalPoints": 1892.7999999999995,
+    "wastedPoints": 389.2999999999995
+  },
+  {
+    "year": 2020,
+    "teamId": "7",
+    "userId": "24139678",
+    "managerName": "Iain",
+    "actualPoints": 2056.32,
+    "optimalPoints": 2431.94,
+    "wastedPoints": 375.6199999999999
+  },
+  {
+    "year": 2024,
+    "teamId": "1",
+    "userId": "24385872",
+    "managerName": "Shash",
+    "actualPoints": 2084.8999999999996,
+    "optimalPoints": 2460.48,
+    "wastedPoints": 375.5800000000004
+  },
+  {
+    "year": 2020,
+    "teamId": "1",
+    "userId": "24385872",
+    "managerName": "Shash",
+    "actualPoints": 2451.7800000000007,
+    "optimalPoints": 2822.0800000000004,
+    "wastedPoints": 370.2999999999997
+  },
+  {
+    "year": 2021,
+    "teamId": "10",
+    "userId": "15140932",
+    "managerName": "Ben",
+    "actualPoints": 2320.41,
+    "optimalPoints": 2689.08,
+    "wastedPoints": 368.6700000000001
+  },
+  {
+    "year": 2025,
+    "teamId": "12",
+    "userId": "35069105",
+    "managerName": "Rohan",
+    "actualPoints": 1729.1999999999998,
+    "optimalPoints": 2089.3,
+    "wastedPoints": 360.10000000000036
+  },
+  {
+    "year": 2025,
+    "teamId": "8",
+    "userId": "24396935",
+    "managerName": "Dan",
+    "actualPoints": 2234.4999999999995,
+    "optimalPoints": 2582.7400000000002,
+    "wastedPoints": 348.2400000000007
+  },
+  {
+    "year": 2023,
+    "teamId": "11",
+    "userId": "32354078",
+    "managerName": "Karvin",
+    "actualPoints": 1800.54,
+    "optimalPoints": 2147.7599999999998,
+    "wastedPoints": 347.2199999999998
+  },
+  {
+    "year": 2022,
+    "teamId": "2",
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "actualPoints": 1815.2799999999997,
+    "optimalPoints": 2155.48,
+    "wastedPoints": 340.2000000000003
+  },
+  {
+    "year": 2020,
+    "teamId": "4",
+    "userId": "24203568",
+    "managerName": "Arthur",
+    "actualPoints": 2095,
+    "optimalPoints": 2430.02,
+    "wastedPoints": 335.02
+  },
+  {
+    "year": 2020,
+    "teamId": "2",
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "actualPoints": 1824.9199999999998,
+    "optimalPoints": 2156.64,
+    "wastedPoints": 331.72
+  },
+  {
+    "year": 2021,
+    "teamId": "7",
+    "userId": "24139678",
+    "managerName": "Iain",
+    "actualPoints": 2436.37,
+    "optimalPoints": 2767.7299999999996,
+    "wastedPoints": 331.3599999999997
+  },
+  {
+    "year": 2021,
+    "teamId": "3",
+    "userId": "24396605",
+    "managerName": "Max",
+    "actualPoints": 2417.35,
+    "optimalPoints": 2747.7300000000005,
+    "wastedPoints": 330.38000000000056
+  },
+  {
+    "year": 2021,
+    "teamId": "5",
+    "userId": "24396645",
+    "managerName": "Datta",
+    "actualPoints": 1991.13,
+    "optimalPoints": 2313.17,
+    "wastedPoints": 322.03999999999996
+  },
+  {
+    "year": 2024,
+    "teamId": "4",
+    "userId": "24203568",
+    "managerName": "Arthur",
+    "actualPoints": 1486.3599999999997,
+    "optimalPoints": 1808.12,
+    "wastedPoints": 321.7600000000002
+  },
+  {
+    "year": 2021,
+    "teamId": "2",
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "actualPoints": 2708.7299999999996,
+    "optimalPoints": 3025.6899999999996,
+    "wastedPoints": 316.96000000000004
+  },
+  {
+    "year": 2024,
+    "teamId": "2",
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "actualPoints": 1962.4799999999998,
+    "optimalPoints": 2275.66,
+    "wastedPoints": 313.18000000000006
+  },
+  {
+    "year": 2023,
+    "teamId": "8",
+    "userId": "24396935",
+    "managerName": "Dan",
+    "actualPoints": 2040.7199999999998,
+    "optimalPoints": 2352.4400000000005,
+    "wastedPoints": 311.7200000000007
+  },
+  {
+    "year": 2025,
+    "teamId": "9",
+    "userId": "26081190",
+    "managerName": "Varun",
+    "actualPoints": 1852.5800000000004,
+    "optimalPoints": 2162.92,
+    "wastedPoints": 310.3399999999997
+  },
+  {
+    "year": 2022,
+    "teamId": "10",
+    "userId": "15140932",
+    "managerName": "Ben",
+    "actualPoints": 1877.3,
+    "optimalPoints": 2173.7599999999998,
+    "wastedPoints": 296.4599999999998
+  },
+  {
+    "year": 2023,
+    "teamId": "1",
+    "userId": "24385872",
+    "managerName": "Shash",
+    "actualPoints": 2124.7,
+    "optimalPoints": 2419.5600000000004,
+    "wastedPoints": 294.8600000000006
+  },
+  {
+    "year": 2022,
+    "teamId": "3",
+    "userId": "24396605",
+    "managerName": "Max",
+    "actualPoints": 1887.3600000000004,
+    "optimalPoints": 2181.42,
+    "wastedPoints": 294.0599999999997
+  },
+  {
+    "year": 2023,
+    "teamId": "6",
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "actualPoints": 1289.9,
+    "optimalPoints": 1579.58,
+    "wastedPoints": 289.67999999999984
+  },
+  {
+    "year": 2021,
+    "teamId": "9",
+    "userId": "26081190",
+    "managerName": "Varun",
+    "actualPoints": 2402.69,
+    "optimalPoints": 2691.31,
+    "wastedPoints": 288.6199999999999
+  },
+  {
+    "year": 2023,
+    "teamId": "9",
+    "userId": "26081190",
+    "managerName": "Varun",
+    "actualPoints": 1927.1000000000001,
+    "optimalPoints": 2214.8999999999996,
+    "wastedPoints": 287.7999999999995
+  },
+  {
+    "year": 2022,
+    "teamId": "5",
+    "userId": "24396645",
+    "managerName": "Datta",
+    "actualPoints": 1577.26,
+    "optimalPoints": 1863.46,
+    "wastedPoints": 286.20000000000005
+  },
+  {
+    "year": 2024,
+    "teamId": "10",
+    "userId": "15140932",
+    "managerName": "Ben",
+    "actualPoints": 1936.42,
+    "optimalPoints": 2221.3399999999997,
+    "wastedPoints": 284.9199999999996
+  },
+  {
+    "year": 2025,
+    "teamId": "11",
+    "userId": "32354078",
+    "managerName": "Karvin",
+    "actualPoints": 1798.3,
+    "optimalPoints": 2079.9000000000005,
+    "wastedPoints": 281.6000000000006
+  },
+  {
+    "year": 2023,
+    "teamId": "4",
+    "userId": "24203568",
+    "managerName": "Arthur",
+    "actualPoints": 1982.7400000000005,
+    "optimalPoints": 2263.36,
+    "wastedPoints": 280.61999999999966
+  },
+  {
+    "year": 2022,
+    "teamId": "7",
+    "userId": "24139678",
+    "managerName": "Iain",
+    "actualPoints": 2102,
+    "optimalPoints": 2381.0000000000005,
+    "wastedPoints": 279.00000000000045
+  },
+  {
+    "year": 2023,
+    "teamId": "12",
+    "userId": "21949043",
+    "managerName": "Mack",
+    "actualPoints": 1881.68,
+    "optimalPoints": 2159.86,
+    "wastedPoints": 278.18000000000006
+  },
+  {
+    "year": 2023,
+    "teamId": "7",
+    "userId": "24139678",
+    "managerName": "Iain",
+    "actualPoints": 2084.48,
+    "optimalPoints": 2362.52,
+    "wastedPoints": 278.03999999999996
+  },
+  {
+    "year": 2021,
+    "teamId": "4",
+    "userId": "24203568",
+    "managerName": "Arthur",
+    "actualPoints": 2384.1900000000005,
+    "optimalPoints": 2661.9199999999996,
+    "wastedPoints": 277.7299999999991
+  },
+  {
+    "year": 2023,
+    "teamId": "10",
+    "userId": "15140932",
+    "managerName": "Ben",
+    "actualPoints": 2047.6799999999998,
+    "optimalPoints": 2322.94,
+    "wastedPoints": 275.2600000000002
+  },
+  {
+    "year": 2025,
+    "teamId": "10",
+    "userId": "15140932",
+    "managerName": "Ben",
+    "actualPoints": 1817.4199999999998,
+    "optimalPoints": 2088.04,
+    "wastedPoints": 270.6200000000001
+  },
+  {
+    "year": 2020,
+    "teamId": "5",
+    "userId": "24396645",
+    "managerName": "Datta",
+    "actualPoints": 1481.46,
+    "optimalPoints": 1748.7999999999997,
+    "wastedPoints": 267.3399999999997
+  },
+  {
+    "year": 2024,
+    "teamId": "3",
+    "userId": "24396605",
+    "managerName": "Max",
+    "actualPoints": 1961.8,
+    "optimalPoints": 2219.7,
+    "wastedPoints": 257.89999999999986
+  },
+  {
+    "year": 2022,
+    "teamId": "1",
+    "userId": "24385872",
+    "managerName": "Shash",
+    "actualPoints": 1961.76,
+    "optimalPoints": 2219.58,
+    "wastedPoints": 257.81999999999994
+  },
+  {
+    "year": 2024,
+    "teamId": "7",
+    "userId": "24139678",
+    "managerName": "Iain",
+    "actualPoints": 1887.3400000000001,
+    "optimalPoints": 2139.0399999999995,
+    "wastedPoints": 251.69999999999936
+  },
+  {
+    "year": 2024,
+    "teamId": "8",
+    "userId": "24396935",
+    "managerName": "Dan",
+    "actualPoints": 1977.6000000000001,
+    "optimalPoints": 2224.4,
+    "wastedPoints": 246.79999999999995
+  },
+  {
+    "year": 2023,
+    "teamId": "2",
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "actualPoints": 1902.32,
+    "optimalPoints": 2148.66,
+    "wastedPoints": 246.33999999999992
+  },
+  {
+    "year": 2021,
+    "teamId": "6",
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "actualPoints": 2132.21,
+    "optimalPoints": 2377.8700000000003,
+    "wastedPoints": 245.6600000000003
+  },
+  {
+    "year": 2025,
+    "teamId": "1",
+    "userId": "24385872",
+    "managerName": "Shash",
+    "actualPoints": 1857.4800000000002,
+    "optimalPoints": 2101.4,
+    "wastedPoints": 243.91999999999985
+  },
+  {
+    "year": 2022,
+    "teamId": "8",
+    "userId": "24396935",
+    "managerName": "Dan",
+    "actualPoints": 2018.62,
+    "optimalPoints": 2261.22,
+    "wastedPoints": 242.5999999999999
+  },
+  {
+    "year": 2022,
+    "teamId": "12",
+    "userId": "21949043",
+    "managerName": "Mack",
+    "actualPoints": 1716.5400000000002,
+    "optimalPoints": 1954.44,
+    "wastedPoints": 237.89999999999986
+  },
+  {
+    "year": 2024,
+    "teamId": "12",
+    "userId": "21949043",
+    "managerName": "Mack",
+    "actualPoints": 2064.92,
+    "optimalPoints": 2298.2599999999998,
+    "wastedPoints": 233.3399999999997
+  },
+  {
+    "year": 2025,
+    "teamId": "6",
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "actualPoints": 2002.74,
+    "optimalPoints": 2228.26,
+    "wastedPoints": 225.5200000000002
+  },
+  {
+    "year": 2025,
+    "teamId": "3",
+    "userId": "24396605",
+    "managerName": "Max",
+    "actualPoints": 1548.6000000000001,
+    "optimalPoints": 1766.94,
+    "wastedPoints": 218.33999999999992
+  },
+  {
+    "year": 2022,
+    "teamId": "6",
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "actualPoints": 2143.1800000000003,
+    "optimalPoints": 2355.2200000000003,
+    "wastedPoints": 212.03999999999996
+  },
+  {
+    "year": 2023,
+    "teamId": "5",
+    "userId": "24396645",
+    "managerName": "Datta",
+    "actualPoints": 1747.46,
+    "optimalPoints": 1956.26,
+    "wastedPoints": 208.79999999999995
+  },
+  {
+    "year": 2025,
+    "teamId": "7",
+    "userId": "24139678",
+    "managerName": "Iain",
+    "actualPoints": 2106.6,
+    "optimalPoints": 2313.5199999999995,
+    "wastedPoints": 206.91999999999962
+  },
+  {
+    "year": 2022,
+    "teamId": "4",
+    "userId": "24203568",
+    "managerName": "Arthur",
+    "actualPoints": 1797.1199999999997,
+    "optimalPoints": 1996.0199999999998,
+    "wastedPoints": 198.9000000000001
+  },
+  {
+    "year": 2023,
+    "teamId": "3",
+    "userId": "24396605",
+    "managerName": "Max",
+    "actualPoints": 1931.12,
+    "optimalPoints": 2123.8599999999997,
+    "wastedPoints": 192.73999999999978
+  },
+  {
+    "year": 2025,
+    "teamId": "2",
+    "userId": "21397394",
+    "managerName": "Farhaan",
+    "actualPoints": 2031.2399999999998,
+    "optimalPoints": 2219.5000000000005,
+    "wastedPoints": 188.26000000000067
+  },
+  {
+    "year": 2024,
+    "teamId": "9",
+    "userId": "26081190",
+    "managerName": "Varun",
+    "actualPoints": 1980.6,
+    "optimalPoints": 2161.08,
+    "wastedPoints": 180.48000000000002
+  },
+  {
+    "year": 2024,
+    "teamId": "11",
+    "userId": "32354078",
+    "managerName": "Karvin",
+    "actualPoints": 1986.6600000000003,
+    "optimalPoints": 2166.42,
+    "wastedPoints": 179.75999999999976
+  },
+  {
+    "year": 2024,
+    "teamId": "6",
+    "userId": "24396653",
+    "managerName": "Elvis",
+    "actualPoints": 2158.52,
+    "optimalPoints": 2332.7799999999997,
+    "wastedPoints": 174.25999999999976
+  }
+]
